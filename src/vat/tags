@@ -1,0 +1,1052 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+DECR	json_format.c	135;"	d	file:
+INCR	json_format.c	134;"	d	file:
+P	json_format.c	130;"	d	file:
+P	json_format.c	241;"	d	file:
+PL	json_format.c	131;"	d	file:
+PL	json_format.c	240;"	d	file:
+PP	json_format.c	133;"	d	file:
+PP	json_format.c	239;"	d	file:
+PPL	json_format.c	132;"	d	file:
+PPL	json_format.c	238;"	d	file:
+QUOTE	plugin.c	170;"	d	file:
+QUOTE_	plugin.c	169;"	d	file:
+STR_VTR_OP_CASE	api_format.c	5742;"	d	file:
+VAT_JSON_ARRAY	json_format.h	/^  VAT_JSON_ARRAY,$/;"	e	enum:__anon16
+VAT_JSON_INT	json_format.h	/^  VAT_JSON_INT,$/;"	e	enum:__anon16
+VAT_JSON_IPV4	json_format.h	/^  VAT_JSON_IPV4,$/;"	e	enum:__anon16
+VAT_JSON_IPV6	json_format.h	/^  VAT_JSON_IPV6,$/;"	e	enum:__anon16
+VAT_JSON_MAX	json_format.h	/^  VAT_JSON_MAX$/;"	e	enum:__anon16
+VAT_JSON_NONE	json_format.h	/^  VAT_JSON_NONE,$/;"	e	enum:__anon16
+VAT_JSON_OBJECT	json_format.h	/^  VAT_JSON_OBJECT,$/;"	e	enum:__anon16
+VAT_JSON_REAL	json_format.h	/^  VAT_JSON_REAL,$/;"	e	enum:__anon16
+VAT_JSON_STRING	json_format.h	/^  VAT_JSON_STRING,$/;"	e	enum:__anon16
+VAT_JSON_UINT	json_format.h	/^  VAT_JSON_UINT,$/;"	e	enum:__anon16
+VAT_TAB_WIDTH	json_format.c	25;"	d	file:
+_	api_format.c	10484;"	d	file:
+_	api_format.c	10486;"	d	file:
+_	api_format.c	10491;"	d	file:
+_	api_format.c	10493;"	d	file:
+_	api_format.c	10498;"	d	file:
+_	api_format.c	10500;"	d	file:
+_	api_format.c	10509;"	d	file:
+_	api_format.c	10511;"	d	file:
+_	api_format.c	10525;"	d	file:
+_	api_format.c	10527;"	d	file:
+_	api_format.c	10532;"	d	file:
+_	api_format.c	10534;"	d	file:
+_	api_format.c	10539;"	d	file:
+_	api_format.c	10541;"	d	file:
+_	api_format.c	10550;"	d	file:
+_	api_format.c	10552;"	d	file:
+_	api_format.c	10602;"	d	file:
+_	api_format.c	10604;"	d	file:
+_	api_format.c	10622;"	d	file:
+_	api_format.c	10624;"	d	file:
+_	api_format.c	10629;"	d	file:
+_	api_format.c	10631;"	d	file:
+_	api_format.c	10640;"	d	file:
+_	api_format.c	10642;"	d	file:
+_	api_format.c	10672;"	d	file:
+_	api_format.c	10674;"	d	file:
+_	api_format.c	10694;"	d	file:
+_	api_format.c	10696;"	d	file:
+_	api_format.c	10701;"	d	file:
+_	api_format.c	10703;"	d	file:
+_	api_format.c	10712;"	d	file:
+_	api_format.c	10714;"	d	file:
+_	api_format.c	10966;"	d	file:
+_	api_format.c	10969;"	d	file:
+_	api_format.c	10996;"	d	file:
+_	api_format.c	10999;"	d	file:
+_	api_format.c	11024;"	d	file:
+_	api_format.c	11027;"	d	file:
+_	api_format.c	13340;"	d	file:
+_	api_format.c	13342;"	d	file:
+_	api_format.c	21171;"	d	file:
+_	api_format.c	21173;"	d	file:
+_	api_format.c	23218;"	d	file:
+_	api_format.c	23233;"	d	file:
+_	api_format.c	23238;"	d	file:
+_	api_format.c	23249;"	d	file:
+_	api_format.c	23262;"	d	file:
+_	api_format.c	23264;"	d	file:
+_	api_format.c	23267;"	d	file:
+_	api_format.c	23269;"	d	file:
+_	api_format.c	23272;"	d	file:
+_	api_format.c	23274;"	d	file:
+_	api_format.c	23277;"	d	file:
+_	api_format.c	23279;"	d	file:
+_	api_format.c	337;"	d	file:
+_	api_format.c	339;"	d	file:
+_	api_format.c	351;"	d	file:
+_	api_format.c	353;"	d	file:
+_	api_format.c	367;"	d	file:
+_	api_format.c	369;"	d	file:
+_	api_format.c	382;"	d	file:
+_	api_format.c	384;"	d	file:
+_	api_format.c	398;"	d	file:
+_	api_format.c	400;"	d	file:
+_	api_format.c	413;"	d	file:
+_	api_format.c	415;"	d	file:
+_	api_format.c	427;"	d	file:
+_	api_format.c	429;"	d	file:
+_	api_format.c	4702;"	d	file:
+_	api_format.c	4704;"	d	file:
+_	api_format.c	507;"	d	file:
+_	api_format.c	509;"	d	file:
+_	api_format.c	5397;"	d	file:
+_	api_format.c	5411;"	d	file:
+_	api_format.c	5413;"	d	file:
+_	api_format.c	5426;"	d	file:
+_	api_format.c	9312;"	d	file:
+_	api_format.c	9314;"	d	file:
+_	api_format.c	9338;"	d	file:
+_	api_format.c	9340;"	d	file:
+_	main.c	213;"	d	file:
+_	main.c	215;"	d	file:
+_GNU_SOURCE	vat.h	18;"	d
+__JSON_FORMAT_H__	json_format.h	21;"	d
+__included_plugin_h__	plugin.h	20;"	d
+__included_vat_h__	vat.h	16;"	d
+__plugin_msg_base	api_format.c	75;"	d	file:
+addr	vat.h	/^  ip_address_details_t *addr;$/;"	m	struct:__anon9
+address	vat.h	/^  struct in6_addr address;$/;"	m	struct:__anon12	typeref:struct:__anon12::in6_addr
+address	vat.h	/^  struct in6_addr address;$/;"	m	struct:__anon14	typeref:struct:__anon14::in6_addr
+address	vat.h	/^  struct in_addr address;$/;"	m	struct:__anon11	typeref:struct:__anon11::in_addr
+address	vat.h	/^  struct in_addr address;$/;"	m	struct:__anon13	typeref:struct:__anon13::in_addr
+address_length	vat.h	/^  u8 address_length;$/;"	m	struct:__anon11
+address_length	vat.h	/^  u8 address_length;$/;"	m	struct:__anon12
+addresses	api_format.c	2350;"	d	file:
+addresses	api_format.c	2359;"	d	file:
+api_add_node_next	api_format.c	/^api_add_node_next (vat_main_t * vam)$/;"	f	file:
+api_af_packet_create	api_format.c	/^api_af_packet_create (vat_main_t * vam)$/;"	f	file:
+api_af_packet_delete	api_format.c	/^api_af_packet_delete (vat_main_t * vam)$/;"	f	file:
+api_app_namespace_add_del	api_format.c	/^api_app_namespace_add_del (vat_main_t * vam)$/;"	f	file:
+api_bd_ip_mac_add_del	api_format.c	/^api_bd_ip_mac_add_del (vat_main_t * vam)$/;"	f	file:
+api_bier_route_add_del	api_format.c	/^api_bier_route_add_del (vat_main_t * vam)$/;"	f	file:
+api_bier_table_add_del	api_format.c	/^api_bier_table_add_del (vat_main_t * vam)$/;"	f	file:
+api_bridge_domain_add_del	api_format.c	/^api_bridge_domain_add_del (vat_main_t * vam)$/;"	f	file:
+api_bridge_domain_dump	api_format.c	/^api_bridge_domain_dump (vat_main_t * vam)$/;"	f	file:
+api_bridge_domain_set_mac_age	api_format.c	/^api_bridge_domain_set_mac_age (vat_main_t * vam)$/;"	f	file:
+api_bridge_flags	api_format.c	/^api_bridge_flags (vat_main_t * vam)$/;"	f	file:
+api_classify_add_del_session	api_format.c	/^api_classify_add_del_session (vat_main_t * vam)$/;"	f	file:
+api_classify_add_del_table	api_format.c	/^api_classify_add_del_table (vat_main_t * vam)$/;"	f	file:
+api_classify_session_dump	api_format.c	/^api_classify_session_dump (vat_main_t * vam)$/;"	f
+api_classify_set_interface_ip_table	api_format.c	/^api_classify_set_interface_ip_table (vat_main_t * vam)$/;"	f	file:
+api_classify_set_interface_l2_tables	api_format.c	/^api_classify_set_interface_l2_tables (vat_main_t * vam)$/;"	f	file:
+api_classify_table_by_interface	api_format.c	/^api_classify_table_by_interface (vat_main_t * vam)$/;"	f
+api_classify_table_ids	api_format.c	/^api_classify_table_ids (vat_main_t * vam)$/;"	f
+api_classify_table_info	api_format.c	/^api_classify_table_info (vat_main_t * vam)$/;"	f
+api_cop_interface_enable_disable	api_format.c	/^api_cop_interface_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_cop_whitelist_enable_disable	api_format.c	/^api_cop_whitelist_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_create_loopback	api_format.c	/^api_create_loopback (vat_main_t * vam)$/;"	f	file:
+api_create_subif	api_format.c	/^api_create_subif (vat_main_t * vam)$/;"	f	file:
+api_create_vhost_user_if	api_format.c	/^api_create_vhost_user_if (vat_main_t * vam)$/;"	f	file:
+api_create_vlan_subif	api_format.c	/^api_create_vlan_subif (vat_main_t * vam)$/;"	f	file:
+api_delete_loopback	api_format.c	/^api_delete_loopback (vat_main_t * vam)$/;"	f	file:
+api_delete_subif	api_format.c	/^api_delete_subif (vat_main_t * vam)$/;"	f	file:
+api_delete_vhost_user_if	api_format.c	/^api_delete_vhost_user_if (vat_main_t * vam)$/;"	f	file:
+api_dhcp_client_config	api_format.c	/^api_dhcp_client_config (vat_main_t * vam)$/;"	f	file:
+api_dhcp_proxy_config	api_format.c	/^api_dhcp_proxy_config (vat_main_t * vam)$/;"	f	file:
+api_dhcp_proxy_dump	api_format.c	/^api_dhcp_proxy_dump (vat_main_t * vam)$/;"	f	file:
+api_dhcp_proxy_set_vss	api_format.c	/^api_dhcp_proxy_set_vss (vat_main_t * vam)$/;"	f	file:
+api_dns_enable_disable	api_format.c	/^api_dns_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_dns_name_server_add_del	api_format.c	/^api_dns_name_server_add_del (vat_main_t * vam)$/;"	f	file:
+api_dns_resolve_ip	api_format.c	/^api_dns_resolve_ip (vat_main_t * vam)$/;"	f	file:
+api_dns_resolve_name	api_format.c	/^api_dns_resolve_name (vat_main_t * vam)$/;"	f	file:
+api_feature_enable_disable	api_format.c	/^api_feature_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_flow_classify_dump	api_format.c	/^api_flow_classify_dump (vat_main_t * vam)$/;"	f	file:
+api_flow_classify_set_interface	api_format.c	/^api_flow_classify_set_interface (vat_main_t * vam)$/;"	f	file:
+api_geneve_add_del_tunnel	api_format.c	/^api_geneve_add_del_tunnel (vat_main_t * vam)$/;"	f	file:
+api_geneve_tunnel_dump	api_format.c	/^api_geneve_tunnel_dump (vat_main_t * vam)$/;"	f	file:
+api_get_first_msg_id	api_format.c	/^api_get_first_msg_id (vat_main_t * vam)$/;"	f	file:
+api_get_next_index	api_format.c	/^api_get_next_index (vat_main_t * vam)$/;"	f	file:
+api_get_node_graph	api_format.c	/^api_get_node_graph (vat_main_t * vam)$/;"	f	file:
+api_get_node_index	api_format.c	/^api_get_node_index (vat_main_t * vam)$/;"	f	file:
+api_gpe_add_del_native_fwd_rpath	api_format.c	/^api_gpe_add_del_native_fwd_rpath (vat_main_t * vam)$/;"	f	file:
+api_gpe_fwd_entry_net_to_host	api_format.c	/^api_gpe_fwd_entry_net_to_host (vl_api_gpe_fwd_entry_t * e)$/;"	f	file:
+api_gpe_fwd_entry_vnis_get	api_format.c	/^api_gpe_fwd_entry_vnis_get (vat_main_t * vam)$/;"	f	file:
+api_gpe_get_encap_mode	api_format.c	/^api_gpe_get_encap_mode (vat_main_t * vam)$/;"	f	file:
+api_gpe_native_fwd_rpaths_get	api_format.c	/^api_gpe_native_fwd_rpaths_get (vat_main_t * vam)$/;"	f	file:
+api_gpe_set_encap_mode	api_format.c	/^api_gpe_set_encap_mode (vat_main_t * vam)$/;"	f	file:
+api_gre_add_del_tunnel	api_format.c	/^api_gre_add_del_tunnel (vat_main_t * vam)$/;"	f	file:
+api_gre_tunnel_dump	api_format.c	/^api_gre_tunnel_dump (vat_main_t * vam)$/;"	f	file:
+api_ikev2_initiate_del_child_sa	api_format.c	/^api_ikev2_initiate_del_child_sa (vat_main_t * vam)$/;"	f	file:
+api_ikev2_initiate_del_ike_sa	api_format.c	/^api_ikev2_initiate_del_ike_sa (vat_main_t * vam)$/;"	f	file:
+api_ikev2_initiate_rekey_child_sa	api_format.c	/^api_ikev2_initiate_rekey_child_sa (vat_main_t * vam)$/;"	f	file:
+api_ikev2_initiate_sa_init	api_format.c	/^api_ikev2_initiate_sa_init (vat_main_t * vam)$/;"	f	file:
+api_ikev2_profile_add_del	api_format.c	/^api_ikev2_profile_add_del (vat_main_t * vam)$/;"	f	file:
+api_ikev2_profile_set_auth	api_format.c	/^api_ikev2_profile_set_auth (vat_main_t * vam)$/;"	f	file:
+api_ikev2_profile_set_id	api_format.c	/^api_ikev2_profile_set_id (vat_main_t * vam)$/;"	f	file:
+api_ikev2_profile_set_ts	api_format.c	/^api_ikev2_profile_set_ts (vat_main_t * vam)$/;"	f	file:
+api_ikev2_set_esp_transforms	api_format.c	/^api_ikev2_set_esp_transforms (vat_main_t * vam)$/;"	f	file:
+api_ikev2_set_ike_transforms	api_format.c	/^api_ikev2_set_ike_transforms (vat_main_t * vam)$/;"	f	file:
+api_ikev2_set_local_key	api_format.c	/^api_ikev2_set_local_key (vat_main_t * vam)$/;"	f	file:
+api_ikev2_set_responder	api_format.c	/^api_ikev2_set_responder (vat_main_t * vam)$/;"	f	file:
+api_ikev2_set_sa_lifetime	api_format.c	/^api_ikev2_set_sa_lifetime (vat_main_t * vam)$/;"	f	file:
+api_input_acl_set_interface	api_format.c	/^api_input_acl_set_interface (vat_main_t * vam)$/;"	f	file:
+api_interface_name_renumber	api_format.c	/^api_interface_name_renumber (vat_main_t * vam)$/;"	f	file:
+api_ioam_disable	api_format.c	/^api_ioam_disable (vat_main_t * vam)$/;"	f	file:
+api_ioam_enable	api_format.c	/^api_ioam_enable (vat_main_t * vam)$/;"	f	file:
+api_ip6_fib_dump	api_format.c	/^api_ip6_fib_dump (vat_main_t * vam)$/;"	f	file:
+api_ip6_mfib_dump	api_format.c	/^api_ip6_mfib_dump (vat_main_t * vam)$/;"	f	file:
+api_ip6nd_proxy_add_del	api_format.c	/^api_ip6nd_proxy_add_del (vat_main_t * vam)$/;"	f	file:
+api_ip6nd_proxy_dump	api_format.c	/^api_ip6nd_proxy_dump (vat_main_t * vam)$/;"	f	file:
+api_ip_add_del_route	api_format.c	/^api_ip_add_del_route (vat_main_t * vam)$/;"	f	file:
+api_ip_address_dump	api_format.c	/^api_ip_address_dump (vat_main_t * vam)$/;"	f	file:
+api_ip_container_proxy_add_del	api_format.c	/^api_ip_container_proxy_add_del (vat_main_t * vam)$/;"	f	file:
+api_ip_dump	api_format.c	/^api_ip_dump (vat_main_t * vam)$/;"	f	file:
+api_ip_fib_dump	api_format.c	/^api_ip_fib_dump (vat_main_t * vam)$/;"	f	file:
+api_ip_mfib_dump	api_format.c	/^api_ip_mfib_dump (vat_main_t * vam)$/;"	f	file:
+api_ip_mroute_add_del	api_format.c	/^api_ip_mroute_add_del (vat_main_t * vam)$/;"	f	file:
+api_ip_neighbor_add_del	api_format.c	/^api_ip_neighbor_add_del (vat_main_t * vam)$/;"	f	file:
+api_ip_neighbor_dump	api_format.c	/^api_ip_neighbor_dump (vat_main_t * vam)$/;"	f	file:
+api_ip_source_and_port_range_check_add_del	api_format.c	/^api_ip_source_and_port_range_check_add_del (vat_main_t * vam)$/;"	f
+api_ip_source_and_port_range_check_interface_add_del	api_format.c	/^api_ip_source_and_port_range_check_interface_add_del (vat_main_t * vam)$/;"	f
+api_ip_table_add_del	api_format.c	/^api_ip_table_add_del (vat_main_t * vam)$/;"	f	file:
+api_ipfix_classify_stream_dump	api_format.c	/^api_ipfix_classify_stream_dump (vat_main_t * vam)$/;"	f	file:
+api_ipfix_classify_table_add_del	api_format.c	/^api_ipfix_classify_table_add_del (vat_main_t * vam)$/;"	f	file:
+api_ipfix_classify_table_dump	api_format.c	/^api_ipfix_classify_table_dump (vat_main_t * vam)$/;"	f	file:
+api_ipfix_exporter_dump	api_format.c	/^api_ipfix_exporter_dump (vat_main_t * vam)$/;"	f
+api_ipsec_gre_add_del_tunnel	api_format.c	/^api_ipsec_gre_add_del_tunnel (vat_main_t * vam)$/;"	f	file:
+api_ipsec_gre_tunnel_dump	api_format.c	/^api_ipsec_gre_tunnel_dump (vat_main_t * vam)$/;"	f	file:
+api_ipsec_interface_add_del_spd	api_format.c	/^api_ipsec_interface_add_del_spd (vat_main_t * vam)$/;"	f	file:
+api_ipsec_sa_dump	api_format.c	/^api_ipsec_sa_dump (vat_main_t * vam)$/;"	f	file:
+api_ipsec_sa_set_key	api_format.c	/^api_ipsec_sa_set_key (vat_main_t * vam)$/;"	f	file:
+api_ipsec_sad_add_del_entry	api_format.c	/^api_ipsec_sad_add_del_entry (vat_main_t * vam)$/;"	f	file:
+api_ipsec_spd_add_del	api_format.c	/^api_ipsec_spd_add_del (vat_main_t * vam)$/;"	f	file:
+api_ipsec_spd_add_del_entry	api_format.c	/^api_ipsec_spd_add_del_entry (vat_main_t * vam)$/;"	f	file:
+api_ipsec_tunnel_if_add_del	api_format.c	/^api_ipsec_tunnel_if_add_del (vat_main_t * vam)$/;"	f	file:
+api_ipsec_tunnel_if_set_key	api_format.c	/^api_ipsec_tunnel_if_set_key (vat_main_t * vam)$/;"	f	file:
+api_ipsec_tunnel_if_set_sa	api_format.c	/^api_ipsec_tunnel_if_set_sa (vat_main_t * vam)$/;"	f	file:
+api_l2_fib_clear_table	api_format.c	/^api_l2_fib_clear_table (vat_main_t * vam)$/;"	f	file:
+api_l2_fib_table_dump	api_format.c	/^api_l2_fib_table_dump (vat_main_t * vam)$/;"	f	file:
+api_l2_flags	api_format.c	/^api_l2_flags (vat_main_t * vam)$/;"	f	file:
+api_l2_interface_efp_filter	api_format.c	/^api_l2_interface_efp_filter (vat_main_t * vam)$/;"	f	file:
+api_l2_interface_pbb_tag_rewrite	api_format.c	/^api_l2_interface_pbb_tag_rewrite (vat_main_t * vam)$/;"	f	file:
+api_l2_interface_vlan_tag_rewrite	api_format.c	/^api_l2_interface_vlan_tag_rewrite (vat_main_t * vam)$/;"	f	file:
+api_l2_patch_add_del	api_format.c	/^api_l2_patch_add_del (vat_main_t * vam)$/;"	f	file:
+api_l2_xconnect_dump	api_format.c	/^api_l2_xconnect_dump (vat_main_t * vam)$/;"	f	file:
+api_l2fib_add_del	api_format.c	/^api_l2fib_add_del (vat_main_t * vam)$/;"	f	file:
+api_l2fib_flush_bd	api_format.c	/^api_l2fib_flush_bd (vat_main_t * vam)$/;"	f	file:
+api_l2fib_flush_int	api_format.c	/^api_l2fib_flush_int (vat_main_t * vam)$/;"	f	file:
+api_l2tpv3_create_tunnel	api_format.c	/^api_l2tpv3_create_tunnel (vat_main_t * vam)$/;"	f	file:
+api_l2tpv3_interface_enable_disable	api_format.c	/^api_l2tpv3_interface_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_l2tpv3_set_lookup_key	api_format.c	/^api_l2tpv3_set_lookup_key (vat_main_t * vam)$/;"	f	file:
+api_l2tpv3_set_tunnel_cookies	api_format.c	/^api_l2tpv3_set_tunnel_cookies (vat_main_t * vam)$/;"	f	file:
+api_lisp_add_del_adjacency	api_format.c	18117;"	d	file:
+api_lisp_add_del_local_eid	api_format.c	16565;"	d	file:
+api_lisp_add_del_locator	api_format.c	16438;"	d	file:
+api_lisp_add_del_locator_set	api_format.c	16323;"	d	file:
+api_lisp_add_del_map_request_itr_rlocs	api_format.c	18492;"	d	file:
+api_lisp_add_del_map_resolver	api_format.c	16840;"	d	file:
+api_lisp_add_del_map_server	api_format.c	16772;"	d	file:
+api_lisp_add_del_remote_mapping	api_format.c	17989;"	d	file:
+api_lisp_adjacencies_get	api_format.c	18914;"	d	file:
+api_lisp_eid_table_add_del_map	api_format.c	17834;"	d	file:
+api_lisp_eid_table_dump	api_format.c	18814;"	d	file:
+api_lisp_eid_table_map_dump	api_format.c	18678;"	d	file:
+api_lisp_eid_table_vni_dump	api_format.c	18706;"	d	file:
+api_lisp_enable_disable	api_format.c	17019;"	d	file:
+api_lisp_get_map_request_itr_rlocs	api_format.c	19223;"	d	file:
+api_lisp_gpe_add_del_fwd_entry	api_format.c	/^api_lisp_gpe_add_del_fwd_entry (vat_main_t * vam)$/;"	f	file:
+api_lisp_gpe_add_del_iface	api_format.c	/^api_lisp_gpe_add_del_iface (vat_main_t * vam)$/;"	f	file:
+api_lisp_gpe_enable_disable	api_format.c	/^api_lisp_gpe_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_lisp_gpe_fwd_entries_get	api_format.c	/^api_lisp_gpe_fwd_entries_get (vat_main_t * vam)$/;"	f	file:
+api_lisp_gpe_fwd_entry_path_dump	api_format.c	/^api_lisp_gpe_fwd_entry_path_dump (vat_main_t * vam)$/;"	f	file:
+api_lisp_locator_dump	api_format.c	18570;"	d	file:
+api_lisp_locator_set_dump	api_format.c	18620;"	d	file:
+api_lisp_map_register_enable_disable	api_format.c	16973;"	d	file:
+api_lisp_map_request_mode	api_format.c	17561;"	d	file:
+api_lisp_map_resolver_dump	api_format.c	19108;"	d	file:
+api_lisp_map_server_dump	api_format.c	19081;"	d	file:
+api_lisp_pitr_set_locator_set	api_format.c	17613;"	d	file:
+api_lisp_rloc_probe_enable_disable	api_format.c	16929;"	d	file:
+api_lisp_use_petr	api_format.c	17736;"	d	file:
+api_lldp_config	api_format.c	/^api_lldp_config (vat_main_t * vam)$/;"	f	file:
+api_map_add_del_rule	api_format.c	/^api_map_add_del_rule (vat_main_t * vam)$/;"	f	file:
+api_map_add_domain	api_format.c	/^api_map_add_domain (vat_main_t * vam)$/;"	f	file:
+api_map_del_domain	api_format.c	/^api_map_del_domain (vat_main_t * vam)$/;"	f	file:
+api_map_domain_dump	api_format.c	/^api_map_domain_dump (vat_main_t * vam)$/;"	f	file:
+api_map_rule_dump	api_format.c	/^api_map_rule_dump (vat_main_t * vam)$/;"	f	file:
+api_memfd_segment_create	api_format.c	/^api_memfd_segment_create (vat_main_t * vam)$/;"	f	file:
+api_modify_vhost_user_if	api_format.c	/^api_modify_vhost_user_if (vat_main_t * vam)$/;"	f	file:
+api_mpls_fib_dump	api_format.c	/^api_mpls_fib_dump (vat_main_t * vam)$/;"	f	file:
+api_mpls_ip_bind_unbind	api_format.c	/^api_mpls_ip_bind_unbind (vat_main_t * vam)$/;"	f	file:
+api_mpls_route_add_del	api_format.c	/^api_mpls_route_add_del (vat_main_t * vam)$/;"	f	file:
+api_mpls_table_add_del	api_format.c	/^api_mpls_table_add_del (vat_main_t * vam)$/;"	f	file:
+api_mpls_tunnel_add_del	api_format.c	/^api_mpls_tunnel_add_del (vat_main_t * vam)$/;"	f	file:
+api_mpls_tunnel_dump	api_format.c	/^api_mpls_tunnel_dump (vat_main_t * vam)$/;"	f	file:
+api_netmap_create	api_format.c	/^api_netmap_create (vat_main_t * vam)$/;"	f	file:
+api_netmap_delete	api_format.c	/^api_netmap_delete (vat_main_t * vam)$/;"	f	file:
+api_oam_add_del	api_format.c	/^api_oam_add_del (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_adjacency	api_format.c	/^api_one_add_del_adjacency (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_l2_arp_entry	api_format.c	/^api_one_add_del_l2_arp_entry (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_local_eid	api_format.c	/^api_one_add_del_local_eid (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_locator	api_format.c	/^api_one_add_del_locator (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_locator_set	api_format.c	/^api_one_add_del_locator_set (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_map_request_itr_rlocs	api_format.c	/^api_one_add_del_map_request_itr_rlocs (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_map_resolver	api_format.c	/^api_one_add_del_map_resolver (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_map_server	api_format.c	/^api_one_add_del_map_server (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_ndp_entry	api_format.c	/^api_one_add_del_ndp_entry (vat_main_t * vam)$/;"	f	file:
+api_one_add_del_remote_mapping	api_format.c	/^api_one_add_del_remote_mapping (vat_main_t * vam)$/;"	f	file:
+api_one_adjacencies_get	api_format.c	/^api_one_adjacencies_get (vat_main_t * vam)$/;"	f	file:
+api_one_eid_table_add_del_map	api_format.c	/^api_one_eid_table_add_del_map (vat_main_t * vam)$/;"	f	file:
+api_one_eid_table_dump	api_format.c	/^api_one_eid_table_dump (vat_main_t * vam)$/;"	f	file:
+api_one_eid_table_map_dump	api_format.c	/^api_one_eid_table_map_dump (vat_main_t * vam)$/;"	f	file:
+api_one_eid_table_vni_dump	api_format.c	/^api_one_eid_table_vni_dump (vat_main_t * vam)$/;"	f	file:
+api_one_enable_disable	api_format.c	/^api_one_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_one_enable_disable_petr_mode	api_format.c	/^api_one_enable_disable_petr_mode (vat_main_t * vam)$/;"	f	file:
+api_one_enable_disable_pitr_mode	api_format.c	/^api_one_enable_disable_pitr_mode (vat_main_t * vam)$/;"	f	file:
+api_one_enable_disable_xtr_mode	api_format.c	/^api_one_enable_disable_xtr_mode (vat_main_t * vam)$/;"	f	file:
+api_one_get_map_request_itr_rlocs	api_format.c	/^api_one_get_map_request_itr_rlocs (vat_main_t * vam)$/;"	f	file:
+api_one_get_transport_protocol	api_format.c	/^api_one_get_transport_protocol (vat_main_t * vam)$/;"	f	file:
+api_one_l2_arp_bd_get	api_format.c	/^api_one_l2_arp_bd_get (vat_main_t * vam)$/;"	f	file:
+api_one_l2_arp_entries_get	api_format.c	/^api_one_l2_arp_entries_get (vat_main_t * vam)$/;"	f	file:
+api_one_locator_dump	api_format.c	/^api_one_locator_dump (vat_main_t * vam)$/;"	f	file:
+api_one_locator_set_dump	api_format.c	/^api_one_locator_set_dump (vat_main_t * vam)$/;"	f	file:
+api_one_map_register_enable_disable	api_format.c	/^api_one_map_register_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_one_map_register_fallback_threshold	api_format.c	/^api_one_map_register_fallback_threshold (vat_main_t * vam)$/;"	f	file:
+api_one_map_register_set_ttl	api_format.c	/^api_one_map_register_set_ttl (vat_main_t * vam)$/;"	f	file:
+api_one_map_request_mode	api_format.c	/^api_one_map_request_mode (vat_main_t * vam)$/;"	f	file:
+api_one_map_resolver_dump	api_format.c	/^api_one_map_resolver_dump (vat_main_t * vam)$/;"	f	file:
+api_one_map_server_dump	api_format.c	/^api_one_map_server_dump (vat_main_t * vam)$/;"	f	file:
+api_one_ndp_bd_get	api_format.c	/^api_one_ndp_bd_get (vat_main_t * vam)$/;"	f	file:
+api_one_ndp_entries_get	api_format.c	/^api_one_ndp_entries_get (vat_main_t * vam)$/;"	f	file:
+api_one_nsh_set_locator_set	api_format.c	/^api_one_nsh_set_locator_set (vat_main_t * vam)$/;"	f	file:
+api_one_pitr_set_locator_set	api_format.c	/^api_one_pitr_set_locator_set (vat_main_t * vam)$/;"	f	file:
+api_one_rloc_probe_enable_disable	api_format.c	/^api_one_rloc_probe_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_one_set_transport_protocol	api_format.c	/^api_one_set_transport_protocol (vat_main_t * vam)$/;"	f	file:
+api_one_show_petr_mode	api_format.c	/^api_one_show_petr_mode (vat_main_t * vam)$/;"	f	file:
+api_one_show_pitr_mode	api_format.c	/^api_one_show_pitr_mode (vat_main_t * vam)$/;"	f	file:
+api_one_show_xtr_mode	api_format.c	/^api_one_show_xtr_mode (vat_main_t * vam)$/;"	f	file:
+api_one_stats_dump	api_format.c	/^api_one_stats_dump (vat_main_t * vam)$/;"	f	file:
+api_one_stats_enable_disable	api_format.c	/^api_one_stats_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_one_stats_flush	api_format.c	/^api_one_stats_flush (vat_main_t * vam)$/;"	f	file:
+api_one_use_petr	api_format.c	/^api_one_use_petr (vat_main_t * vam)$/;"	f	file:
+api_output_acl_set_interface	api_format.c	/^api_output_acl_set_interface (vat_main_t * vam)$/;"	f	file:
+api_p2p_ethernet_add	api_format.c	/^api_p2p_ethernet_add (vat_main_t * vam)$/;"	f	file:
+api_p2p_ethernet_del	api_format.c	/^api_p2p_ethernet_del (vat_main_t * vam)$/;"	f	file:
+api_pg_capture	api_format.c	/^api_pg_capture (vat_main_t * vam)$/;"	f
+api_pg_create_interface	api_format.c	/^api_pg_create_interface (vat_main_t * vam)$/;"	f
+api_pg_enable_disable	api_format.c	/^api_pg_enable_disable (vat_main_t * vam)$/;"	f
+api_policer_add_del	api_format.c	/^api_policer_add_del (vat_main_t * vam)$/;"	f	file:
+api_policer_classify_dump	api_format.c	/^api_policer_classify_dump (vat_main_t * vam)$/;"	f	file:
+api_policer_classify_set_interface	api_format.c	/^api_policer_classify_set_interface (vat_main_t * vam)$/;"	f	file:
+api_policer_dump	api_format.c	/^api_policer_dump (vat_main_t * vam)$/;"	f	file:
+api_proxy_arp_add_del	api_format.c	/^api_proxy_arp_add_del (vat_main_t * vam)$/;"	f	file:
+api_proxy_arp_intfc_enable_disable	api_format.c	/^api_proxy_arp_intfc_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_punt	api_format.c	/^api_punt (vat_main_t * vam)$/;"	f	file:
+api_reset_fib	api_format.c	/^api_reset_fib (vat_main_t * vam)$/;"	f	file:
+api_session_rule_add_del	api_format.c	/^api_session_rule_add_del (vat_main_t * vam)$/;"	f	file:
+api_session_rules_dump	api_format.c	/^api_session_rules_dump (vat_main_t * vam)$/;"	f	file:
+api_set_arp_neighbor_limit	api_format.c	/^api_set_arp_neighbor_limit (vat_main_t * vam)$/;"	f	file:
+api_set_ip_flow_hash	api_format.c	/^api_set_ip_flow_hash (vat_main_t * vam)$/;"	f	file:
+api_set_ipfix_classify_stream	api_format.c	/^api_set_ipfix_classify_stream (vat_main_t * vam)$/;"	f	file:
+api_set_ipfix_exporter	api_format.c	/^api_set_ipfix_exporter (vat_main_t * vam)$/;"	f	file:
+api_show_lisp_map_register_state	api_format.c	17220;"	d	file:
+api_show_lisp_map_request_mode	api_format.c	17525;"	d	file:
+api_show_lisp_pitr	api_format.c	17679;"	d	file:
+api_show_lisp_rloc_probe_state	api_format.c	17238;"	d	file:
+api_show_lisp_status	api_format.c	19161;"	d	file:
+api_show_lisp_use_petr	api_format.c	17778;"	d	file:
+api_show_one_map_register_fallback_threshold	api_format.c	/^api_show_one_map_register_fallback_threshold (vat_main_t * vam)$/;"	f	file:
+api_show_one_map_register_state	api_format.c	/^api_show_one_map_register_state (vat_main_t * vam)$/;"	f	file:
+api_show_one_map_register_ttl	api_format.c	/^api_show_one_map_register_ttl (vat_main_t * vam)$/;"	f	file:
+api_show_one_map_request_mode	api_format.c	/^api_show_one_map_request_mode (vat_main_t * vam)$/;"	f	file:
+api_show_one_nsh_mapping	api_format.c	/^api_show_one_nsh_mapping (vat_main_t * vam)$/;"	f	file:
+api_show_one_pitr	api_format.c	/^api_show_one_pitr (vat_main_t * vam)$/;"	f	file:
+api_show_one_rloc_probe_state	api_format.c	/^api_show_one_rloc_probe_state (vat_main_t * vam)$/;"	f	file:
+api_show_one_stats_enable_disable	api_format.c	/^api_show_one_stats_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_show_one_status	api_format.c	/^api_show_one_status (vat_main_t * vam)$/;"	f	file:
+api_show_one_use_petr	api_format.c	/^api_show_one_use_petr (vat_main_t * vam)$/;"	f	file:
+api_show_version	api_format.c	/^api_show_version (vat_main_t * vam)$/;"	f	file:
+api_sock_init_shm	api_format.c	/^api_sock_init_shm (vat_main_t * vam)$/;"	f	file:
+api_sr_localsid_add_del	api_format.c	/^api_sr_localsid_add_del (vat_main_t * vam)$/;"	f	file:
+api_sw_if_l2tpv3_tunnel_dump	api_format.c	/^api_sw_if_l2tpv3_tunnel_dump (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_add_del_address	api_format.c	/^api_sw_interface_add_del_address (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_clear_stats	api_format.c	/^api_sw_interface_clear_stats (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_dump	api_format.c	/^api_sw_interface_dump (vat_main_t * vam)$/;"	f
+api_sw_interface_get_table	api_format.c	/^api_sw_interface_get_table (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_ip6_enable_disable	api_format.c	/^api_sw_interface_ip6_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_ip6_set_link_local_address	api_format.c	/^api_sw_interface_ip6_set_link_local_address (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_ip6nd_ra_config	api_format.c	/^api_sw_interface_ip6nd_ra_config (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_ip6nd_ra_prefix	api_format.c	/^api_sw_interface_ip6nd_ra_prefix (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_flags	api_format.c	/^api_sw_interface_set_flags (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_geneve_bypass	api_format.c	/^api_sw_interface_set_geneve_bypass (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_l2_bridge	api_format.c	/^api_sw_interface_set_l2_bridge (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_l2_xconnect	api_format.c	/^api_sw_interface_set_l2_xconnect (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_lldp	api_format.c	/^api_sw_interface_set_lldp (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_mpls_enable	api_format.c	/^api_sw_interface_set_mpls_enable (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_mtu	api_format.c	/^api_sw_interface_set_mtu (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_rx_mode	api_format.c	/^api_sw_interface_set_rx_mode (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_table	api_format.c	/^api_sw_interface_set_table (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_unnumbered	api_format.c	/^api_sw_interface_set_unnumbered (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_vpath	api_format.c	/^api_sw_interface_set_vpath (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_set_vxlan_bypass	api_format.c	/^api_sw_interface_set_vxlan_bypass (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_span_dump	api_format.c	/^api_sw_interface_span_dump (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_span_enable_disable	api_format.c	/^api_sw_interface_span_enable_disable (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_tag_add_del	api_format.c	/^api_sw_interface_tag_add_del (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_tap_dump	api_format.c	/^api_sw_interface_tap_dump (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_tap_v2_dump	api_format.c	/^api_sw_interface_tap_v2_dump (vat_main_t * vam)$/;"	f	file:
+api_sw_interface_vhost_user_dump	api_format.c	/^api_sw_interface_vhost_user_dump (vat_main_t * vam)$/;"	f	file:
+api_tap_connect	api_format.c	/^api_tap_connect (vat_main_t * vam)$/;"	f	file:
+api_tap_create_v2	api_format.c	/^api_tap_create_v2 (vat_main_t * vam)$/;"	f	file:
+api_tap_delete	api_format.c	/^api_tap_delete (vat_main_t * vam)$/;"	f	file:
+api_tap_delete_v2	api_format.c	/^api_tap_delete_v2 (vat_main_t * vam)$/;"	f	file:
+api_tap_modify	api_format.c	/^api_tap_modify (vat_main_t * vam)$/;"	f	file:
+api_tcp_configure_src_addresses	api_format.c	/^api_tcp_configure_src_addresses (vat_main_t * vam)$/;"	f	file:
+api_unformat_acl_next_index	api_format.c	/^api_unformat_acl_next_index (unformat_input_t * input, va_list * args)$/;"	f
+api_unformat_classify_match	api_format.c	/^api_unformat_classify_match (unformat_input_t * input, va_list * args)$/;"	f
+api_unformat_ip_next_index	api_format.c	/^api_unformat_ip_next_index (unformat_input_t * input, va_list * args)$/;"	f
+api_unformat_sw_if_index	api_format.c	/^api_unformat_sw_if_index (unformat_input_t * input, va_list * args)$/;"	f	file:
+api_vxlan_add_del_tunnel	api_format.c	/^api_vxlan_add_del_tunnel (vat_main_t * vam)$/;"	f	file:
+api_vxlan_gpe_add_del_tunnel	api_format.c	/^api_vxlan_gpe_add_del_tunnel (vat_main_t * vam)$/;"	f	file:
+api_vxlan_gpe_tunnel_dump	api_format.c	/^api_vxlan_gpe_tunnel_dump (vat_main_t * vam)$/;"	f	file:
+api_vxlan_tunnel_dump	api_format.c	/^api_vxlan_tunnel_dump (vat_main_t * vam)$/;"	f	file:
+api_want_interface_events	api_format.c	/^api_want_interface_events (vat_main_t * vam)$/;"	f	file:
+api_want_ip4_arp_events	api_format.c	/^api_want_ip4_arp_events (vat_main_t * vam)$/;"	f	file:
+api_want_ip6_nd_events	api_format.c	/^api_want_ip6_nd_events (vat_main_t * vam)$/;"	f	file:
+api_want_l2_macs_events	api_format.c	/^api_want_l2_macs_events (vat_main_t * vam)$/;"	f	file:
+api_want_stats	api_format.c	/^api_want_stats (vat_main_t * vam)$/;"	f	file:
+array	json_format.h	/^    vat_json_node_t *array;$/;"	m	union:vat_json_node_s::__anon17
+async_errors	vat.h	/^  u32 async_errors;$/;"	m	struct:__anon15
+async_mode	vat.h	/^  u32 async_mode;$/;"	m	struct:__anon15
+behavior	api_format.c	/^u8 behavior;$/;"	v
+bytes	vat.h	/^  u64 bytes;$/;"	m	struct:__anon10
+bytes	vat.h	/^  u64 bytes;$/;"	m	struct:__anon11
+bytes	vat.h	/^  u64 bytes;$/;"	m	struct:__anon12
+bytes	vat.h	/^  u64 bytes;$/;"	m	struct:__anon13
+bytes	vat.h	/^  u64 bytes;$/;"	m	struct:__anon14
+clib_time	vat.h	/^  clib_time_t clib_time;$/;"	m	struct:__anon15
+client_index_invalid	vat.h	/^  int client_index_invalid;$/;"	m	struct:__anon15
+cmd_cmp	api_format.c	/^cmd_cmp (void *a1, void *a2)$/;"	f	file:
+cmd_reply	vat.h	/^  u8 *cmd_reply;$/;"	m	struct:__anon15
+combined_interface_counters	vat.h	/^  interface_counter_t **combined_interface_counters;$/;"	m	struct:__anon15
+comment	api_format.c	/^comment (vat_main_t * vam)$/;"	f	file:
+connect_to_vpe	main.c	/^connect_to_vpe (char *name)$/;"	f
+counter_type_to_str	api_format.c	/^counter_type_to_str (u8 counter_type, u8 is_combined)$/;"	f	file:
+current_file	vat.h	/^  u8 *current_file;$/;"	m	struct:__anon15
+current_sw_if_index	vat.h	/^  u32 current_sw_if_index;$/;"	m	struct:__anon15
+do_exit	vat.h	/^  volatile int do_exit;$/;"	m	struct:__anon15
+do_one_file	main.c	/^do_one_file (vat_main_t * vam)$/;"	f
+dst_port	api_format.c	/^  u16 src_port, dst_port;$/;"	m	struct:__anon5	file:
+dump_interface_table	api_format.c	/^dump_interface_table (vat_main_t * vam)$/;"	f	file:
+dump_ip_table	api_format.c	/^dump_ip_table (vat_main_t * vam, int is_ipv6)$/;"	f	file:
+dump_ipv4_table	api_format.c	/^dump_ipv4_table (vat_main_t * vam)$/;"	f	file:
+dump_ipv6_table	api_format.c	/^dump_ipv6_table (vat_main_t * vam)$/;"	f	file:
+dump_macro_table	api_format.c	/^dump_macro_table (vat_main_t * vam)$/;"	f	file:
+dump_msg_api_table	api_format.c	/^dump_msg_api_table (vat_main_t * vam)$/;"	f	file:
+dump_node_table	api_format.c	/^dump_node_table (vat_main_t * vam)$/;"	f	file:
+dump_stats_table	api_format.c	/^dump_stats_table (vat_main_t * vam)$/;"	f	file:
+dump_sub_interface_table	api_format.c	/^dump_sub_interface_table (vat_main_t * vam)$/;"	f	file:
+echo	api_format.c	/^echo (vat_main_t * vam)$/;"	f	file:
+end_psp	api_format.c	/^u8 end_psp;$/;"	v
+errmsg	api_format.c	/^errmsg (char *fmt, ...)$/;"	f
+error_string_by_error_number	vat.h	/^  uword *error_string_by_error_number;$/;"	m	struct:__anon15
+eval_current_file	main.c	/^eval_current_file (macro_main_t * mm, i32 complain)$/;"	f	file:
+eval_current_line	main.c	/^eval_current_line (macro_main_t * mm, i32 complain)$/;"	f	file:
+exec	api_format.c	/^exec (vat_main_t * vam)$/;"	f
+exec_inband	api_format.c	/^exec_inband (vat_main_t * vam)$/;"	f	file:
+exec_mode	vat.h	/^  int exec_mode;$/;"	m	struct:__anon15
+fformat_append_cr	main.c	/^fformat_append_cr (FILE * ofp, const char *fmt, ...)$/;"	f
+fib_table	api_format.c	/^u32 fib_table;$/;"	v
+file_info	plugin.h	/^  struct stat file_info;$/;"	m	struct:__anon1	typeref:struct:__anon1::stat
+foreach_acl_next	api_format.c	11014;"	d	file:
+foreach_cli_function	api_format.c	23197;"	d	file:
+foreach_create_subif_bit	api_format.c	9266;"	d	file:
+foreach_ip4_proto_field	api_format.c	10460;"	d	file:
+foreach_ip6_proto_field	api_format.c	10656;"	d	file:
+foreach_ip_next	api_format.c	10984;"	d	file:
+foreach_l2_next	api_format.c	10953;"	d	file:
+foreach_pbb_vtr_op	api_format.c	21140;"	d	file:
+foreach_standalone_reply_msg	api_format.c	5725;"	d	file:
+foreach_standard_reply_retval_handler	api_format.c	5246;"	d	file:
+foreach_tcp_proto_field	api_format.c	10452;"	d	file:
+foreach_udp_proto_field	api_format.c	10456;"	d	file:
+foreach_vpe_api_msg	api_format.c	22733;"	d	file:
+foreach_vpe_api_reply_msg	api_format.c	5433;"	d	file:
+foreach_vtr_op	api_format.c	13307;"	d	file:
+format_api_error	main.c	/^format_api_error (u8 * s, va_list * args)$/;"	f	file:
+format_dscp	api_format.c	/^format_dscp (u8 * s, va_list * va)$/;"	f	file:
+format_ethernet_address	api_format.c	/^format_ethernet_address (u8 * s, va_list * args)$/;"	f
+format_ethernet_address	plugin_api.c	/^format_ethernet_address (u8 * s, va_list * args)$/;"	f
+format_gpe_encap_mode	api_format.c	/^format_gpe_encap_mode (u8 * s, va_list * args)$/;"	f	file:
+format_hex_bytes	api_format.c	/^format_hex_bytes (u8 * s, va_list * va)$/;"	f
+format_ip46_address	api_format.c	/^format_ip46_address (u8 * s, va_list * args)$/;"	f
+format_ip46_address	plugin_api.c	/^format_ip46_address (u8 * s, va_list * args)$/;"	f
+format_ip4_address	api_format.c	/^format_ip4_address (u8 * s, va_list * args)$/;"	f
+format_ip4_address	plugin_api.c	/^format_ip4_address (u8 * s, va_list * args)$/;"	f
+format_ip6_address	api_format.c	/^format_ip6_address (u8 * s, va_list * args)$/;"	f
+format_ip6_address	plugin_api.c	/^format_ip6_address (u8 * s, va_list * args)$/;"	f
+format_ipsec_crypto_alg	api_format.c	/^format_ipsec_crypto_alg (u8 * s, va_list * args)$/;"	f
+format_ipsec_integ_alg	api_format.c	/^format_ipsec_integ_alg (u8 * s, va_list * args)$/;"	f
+format_lisp_eid_vat	api_format.c	/^format_lisp_eid_vat (u8 * s, va_list * args)$/;"	f	file:
+format_lisp_flat_eid	api_format.c	/^format_lisp_flat_eid (u8 * s, va_list * args)$/;"	f	file:
+format_lisp_map_request_mode	api_format.c	/^format_lisp_map_request_mode (u8 * s, va_list * args)$/;"	f	file:
+format_lisp_transport_protocol	api_format.c	/^format_lisp_transport_protocol (u8 * s, va_list * args)$/;"	f
+format_nsh_address_vat	api_format.c	/^format_nsh_address_vat (u8 * s, va_list * args)$/;"	f
+format_policer_action_type	api_format.c	/^format_policer_action_type (u8 * s, va_list * va)$/;"	f	file:
+format_policer_rate_type	api_format.c	/^format_policer_rate_type (u8 * s, va_list * va)$/;"	f	file:
+format_policer_round_type	api_format.c	/^format_policer_round_type (u8 * s, va_list * va)$/;"	f	file:
+format_policer_type	api_format.c	/^format_policer_type (u8 * s, va_list * va)$/;"	f	file:
+function_by_name	vat.h	/^  uword *function_by_name;$/;"	m	struct:__anon15
+get_msg_id	api_format.c	/^get_msg_id (vat_main_t * vam)$/;"	f	file:
+gpe_fwd_entries_get_reply_t_net_to_host	api_format.c	/^  gpe_fwd_entries_get_reply_t_net_to_host$/;"	f	file:
+graph_node_index_by_name	vat.h	/^  uword *graph_node_index_by_name;$/;"	m	struct:__anon15
+graph_nodes	vat.h	/^  vlib_node_t **graph_nodes;$/;"	m	struct:__anon15
+handle	plugin.h	/^  void *handle;$/;"	m	struct:__anon1
+help	api_format.c	/^help (vat_main_t * vam)$/;"	f	file:
+help_by_name	vat.h	/^  uword *help_by_name;$/;"	m	struct:__anon15
+ifp	vat.h	/^  FILE *ifp, *ofp;$/;"	m	struct:__anon15
+inbuf	vat.h	/^  u8 *inbuf;$/;"	m	struct:__anon15
+increment_mac_address	api_format.c	/^increment_mac_address (u8 * mac)$/;"	f	file:
+increment_v4_address	api_format.c	/^increment_v4_address (ip4_address_t * a)$/;"	f	file:
+increment_v6_address	api_format.c	/^increment_v6_address (ip6_address_t * a)$/;"	f	file:
+indent	json_format.c	/^  u32 indent;$/;"	m	struct:vat_print_ctx_s	file:
+init_error_string_table	main.c	/^init_error_string_table (vat_main_t * vam)$/;"	f	file:
+input	vat.h	/^  unformat_input_t *input;$/;"	m	struct:__anon15
+input_line_number	vat.h	/^  u32 input_line_number;$/;"	m	struct:__anon15
+interface_counter_t	vat.h	/^} interface_counter_t;$/;"	t	typeref:struct:__anon10
+interface_event_display	vat.h	/^  u8 interface_event_display;$/;"	m	struct:__anon15
+interface_name	vat.h	/^  u8 *interface_name;$/;"	m	struct:__anon7
+ip	vat.h	/^  u8 ip[16];$/;"	m	struct:__anon8
+ip4	json_format.h	/^    struct in_addr ip4;$/;"	m	union:vat_json_node_s::__anon17	typeref:struct:vat_json_node_s::__anon17::in_addr
+ip4_fib_counter_t	vat.h	/^} ip4_fib_counter_t;$/;"	t	typeref:struct:__anon11
+ip4_fib_counters	vat.h	/^  ip4_fib_counter_t **ip4_fib_counters;$/;"	m	struct:__anon15
+ip4_fib_counters_get_vrf_index_by_vrf_id	api_format.c	/^ip4_fib_counters_get_vrf_index_by_vrf_id (u32 vrf_id)$/;"	f	file:
+ip4_fib_counters_vrf_id_by_index	vat.h	/^  u32 *ip4_fib_counters_vrf_id_by_index;$/;"	m	struct:__anon15
+ip4_nbr_counter_t	vat.h	/^} ip4_nbr_counter_t;$/;"	t	typeref:struct:__anon13
+ip4_nbr_counters	vat.h	/^  ip4_nbr_counter_t **ip4_nbr_counters;$/;"	m	struct:__anon15
+ip6	json_format.h	/^    struct in6_addr ip6;$/;"	m	union:vat_json_node_s::__anon17	typeref:struct:vat_json_node_s::__anon17::in6_addr
+ip6_fib_counter_t	vat.h	/^} ip6_fib_counter_t;$/;"	t	typeref:struct:__anon12
+ip6_fib_counters	vat.h	/^  ip6_fib_counter_t **ip6_fib_counters;$/;"	m	struct:__anon15
+ip6_fib_counters_get_vrf_index_by_vrf_id	api_format.c	/^ip6_fib_counters_get_vrf_index_by_vrf_id (u32 vrf_id)$/;"	f	file:
+ip6_fib_counters_vrf_id_by_index	vat.h	/^  u32 *ip6_fib_counters_vrf_id_by_index;$/;"	m	struct:__anon15
+ip6_nbr_counter_t	vat.h	/^} ip6_nbr_counter_t;$/;"	t	typeref:struct:__anon14
+ip6_nbr_counters	vat.h	/^  ip6_nbr_counter_t **ip6_nbr_counters;$/;"	m	struct:__anon15
+ip_address_details_t	vat.h	/^} ip_address_details_t;$/;"	t	typeref:struct:__anon8
+ip_details_by_sw_if_index	vat.h	/^  ip_details_t *ip_details_by_sw_if_index[2];$/;"	m	struct:__anon15
+ip_details_t	vat.h	/^} ip_details_t;$/;"	t	typeref:struct:__anon9
+is_del	api_format.c	/^u8 is_del;$/;"	v
+is_ipv6	vat.h	/^  u8 is_ipv6;$/;"	m	struct:__anon15
+is_num_only	json_format.c	/^is_num_only (vat_json_node_t * p)$/;"	f	file:
+json_output	vat.h	/^  u8 json_output;$/;"	m	struct:__anon15
+json_tree	vat.h	/^  vat_json_node_t json_tree;$/;"	m	struct:__anon15
+jump_buf	vat.h	/^  jmp_buf jump_buf;$/;"	m	struct:__anon15
+jump_buf_set	vat.h	/^  int jump_buf_set;$/;"	m	struct:__anon15
+linkt	vat.h	/^  vnet_link_t linkt;$/;"	m	struct:__anon13
+linkt	vat.h	/^  vnet_link_t linkt;$/;"	m	struct:__anon14
+lisp_eid_put_vat	api_format.c	/^lisp_eid_put_vat (u8 * dst, u8 eid[16], u8 type)$/;"	f	file:
+lisp_eid_size_vat	api_format.c	/^lisp_eid_size_vat (u8 type)$/;"	f	file:
+lisp_eid_vat_t	api_format.c	/^}) lisp_eid_vat_t;$/;"	t	file:
+lisp_fill_locator_node	api_format.c	/^lisp_fill_locator_node (vat_json_node_t * n, vl_api_gpe_locator_t * loc)$/;"	f	file:
+lisp_nsh_api_t	api_format.c	/^} __attribute__ ((__packed__)) lisp_nsh_api_t;$/;"	t	typeref:struct:__anon3	file:
+load_one_plugin	plugin.c	/^load_one_plugin (plugin_main_t * pm, plugin_info_t * pi)$/;"	f	file:
+localsid_addr	api_format.c	/^u8 localsid_addr[16];$/;"	v
+macro_main	vat.h	/^  macro_main_t macro_main;$/;"	m	struct:__anon15
+macro_sort_cmp	api_format.c	/^macro_sort_cmp (void *a1, void *a2)$/;"	f	file:
+macro_sort_t	api_format.c	/^} macro_sort_t;$/;"	t	typeref:struct:__anon6	file:
+main	json_test.c	/^main (void)$/;"	f
+main	main.c	/^main (int argc, char **argv)$/;"	f
+main	restart.c	/^main (int argc, char **argv)$/;"	f
+mfib_flag_long_names	api_format.c	/^static const char *mfib_flag_long_names[] = MFIB_ENTRY_NAMES_LONG;$/;"	v	file:
+mfib_flag_names	api_format.c	/^static const char *mfib_flag_names[] = MFIB_ENTRY_NAMES_SHORT;$/;"	v	file:
+mfib_itf_flag_long_names	api_format.c	/^static const char *mfib_itf_flag_long_names[] = MFIB_ITF_NAMES_LONG;$/;"	v	file:
+mfib_itf_flag_names	api_format.c	/^static const char *mfib_itf_flag_names[] = MFIB_ITF_NAMES_SHORT;$/;"	v	file:
+my_client_index	vat.h	/^  u32 my_client_index;$/;"	m	struct:__anon15
+name	api_format.c	/^  u8 *name;$/;"	m	struct:__anon4	file:
+name	api_format.c	/^  u8 *name;$/;"	m	struct:__anon6	file:
+name	json_format.h	/^  const char *name;$/;"	m	struct:vat_json_pair_s
+name	plugin.h	/^  u8 *name;$/;"	m	struct:__anon1
+name_sort_cmp	api_format.c	/^name_sort_cmp (void *a1, void *a2)$/;"	f	file:
+name_sort_t	api_format.c	/^} name_sort_t;$/;"	t	typeref:struct:__anon4	file:
+nh_addr	api_format.c	/^u8 nh_addr[16];$/;"	v
+ofp	json_format.c	/^  FILE *ofp;$/;"	m	struct:vat_print_ctx_s	file:
+ofp	vat.h	/^  FILE *ifp, *ofp;$/;"	m	struct:__anon15
+packets	vat.h	/^  u64 packets;$/;"	m	struct:__anon10
+packets	vat.h	/^  u64 packets;$/;"	m	struct:__anon11
+packets	vat.h	/^  u64 packets;$/;"	m	struct:__anon12
+packets	vat.h	/^  u64 packets;$/;"	m	struct:__anon13
+packets	vat.h	/^  u64 packets;$/;"	m	struct:__anon14
+pairs	json_format.h	/^    vat_json_pair_t *pairs;$/;"	m	union:vat_json_node_s::__anon17
+plugin_by_name_hash	plugin.h	/^  uword *plugin_by_name_hash;$/;"	m	struct:__anon2
+plugin_info	plugin.h	/^  plugin_info_t *plugin_info;$/;"	m	struct:__anon2
+plugin_info_t	plugin.h	/^} plugin_info_t;$/;"	t	typeref:struct:__anon1
+plugin_main_t	plugin.h	/^} plugin_main_t;$/;"	t	typeref:struct:__anon2
+plugin_name_filter	plugin.h	/^  u8 *plugin_name_filter;$/;"	m	struct:__anon2
+plugin_path	plugin.h	/^  u8 *plugin_path;$/;"	m	struct:__anon2
+prefix_length	vat.h	/^  u8 prefix_length;$/;"	m	struct:__anon8
+present	vat.h	/^  u8 present;$/;"	m	struct:__anon9
+print	vat.h	247;"	d
+print	vat.h	250;"	d
+print_json_test	json_test.c	/^print_json_test (void)$/;"	f	file:
+q	api_format.c	/^q (vat_main_t * vam)$/;"	f	file:
+q_or_quit	api_format.c	/^q_or_quit (vat_main_t * vam)$/;"	f	file:
+quit	api_format.c	/^quit (vat_main_t * vam)$/;"	f	file:
+real	json_format.h	/^    f64 real;$/;"	m	union:vat_json_node_s::__anon17
+receive_fd_msg	api_format.c	/^receive_fd_msg (int socket_fd, int *my_fd)$/;"	f	file:
+regenerate_interface_table	vat.h	/^  volatile int regenerate_interface_table;$/;"	m	struct:__anon15
+restart_main_fn	restart.c	/^restart_main_fn (unformat_input_t * i)$/;"	f
+result_ready	vat.h	/^  volatile u32 result_ready;$/;"	m	struct:__anon15
+retval	vat.h	/^  volatile i32 retval;$/;"	m	struct:__anon15
+script	api_format.c	/^script (vat_main_t * vam)$/;"	f	file:
+search_node_table	api_format.c	/^search_node_table (vat_main_t * vam)$/;"	f	file:
+set	api_format.c	/^set (vat_main_t * vam)$/;"	f	file:
+set_combined_interface_counter	api_format.c	/^set_combined_interface_counter (u8 vnet_counter_type, u32 sw_if_index,$/;"	f	file:
+set_simple_interface_counter	api_format.c	/^set_simple_interface_counter (u8 vnet_counter_type, u32 sw_if_index,$/;"	f	file:
+setup_signal_handlers	main.c	/^setup_signal_handlers (void)$/;"	f	file:
+shmem_result	vat.h	/^  volatile u8 *shmem_result;$/;"	m	struct:__anon15
+si	api_format.c	/^  u8 si;$/;"	m	struct:__anon3	file:
+signal_handler	main.c	/^signal_handler (int signum, siginfo_t * si, ucontext_t * uc)$/;"	f	file:
+simple_interface_counters	vat.h	/^  u64 **simple_interface_counters;$/;"	m	struct:__anon15
+sint	json_format.h	/^    i64 sint;$/;"	m	union:vat_json_node_s::__anon17
+socket_client_main	vat.h	/^  socket_client_main_t *socket_client_main;$/;"	m	struct:__anon15
+socket_name	vat.h	/^  u8 *socket_name;$/;"	m	struct:__anon15
+spi	api_format.c	/^  u32 spi;$/;"	m	struct:__anon3	file:
+split_plugin_path	plugin.c	/^split_plugin_path (plugin_main_t * pm)$/;"	f	file:
+src_port	api_format.c	/^  u16 src_port, dst_port;$/;"	m	struct:__anon5	file:
+str_vtr_op	api_format.c	/^str_vtr_op (u32 vtr_op)$/;"	f	file:
+string	json_format.h	/^    u8 *string;$/;"	m	union:vat_json_node_s::__anon17
+sub_default	vat.h	/^  u8 sub_default;$/;"	m	struct:__anon7
+sub_dot1ad	vat.h	/^  u8 sub_dot1ad;$/;"	m	struct:__anon7
+sub_exact_match	vat.h	/^  u8 sub_exact_match;$/;"	m	struct:__anon7
+sub_id	vat.h	/^  u32 sub_id;$/;"	m	struct:__anon7
+sub_inner_vlan_id	vat.h	/^  u16 sub_inner_vlan_id;$/;"	m	struct:__anon7
+sub_inner_vlan_id_any	vat.h	/^  u8 sub_inner_vlan_id_any;$/;"	m	struct:__anon7
+sub_number_of_tags	vat.h	/^  u8 sub_number_of_tags;$/;"	m	struct:__anon7
+sub_outer_vlan_id	vat.h	/^  u16 sub_outer_vlan_id;$/;"	m	struct:__anon7
+sub_outer_vlan_id_any	vat.h	/^  u8 sub_outer_vlan_id_any;$/;"	m	struct:__anon7
+sw_if_index	api_format.c	/^u32 sw_if_index;$/;"	v
+sw_if_index	vat.h	/^  u32 sw_if_index;$/;"	m	struct:__anon7
+sw_if_index	vat.h	/^  volatile u32 sw_if_index;$/;"	m	struct:__anon15
+sw_if_index_by_interface_name	vat.h	/^  uword *sw_if_index_by_interface_name;$/;"	m	struct:__anon15
+sw_if_subif_table	vat.h	/^  sw_interface_subif_t *sw_if_subif_table;$/;"	m	struct:__anon15
+sw_interface_subif_t	vat.h	/^} sw_interface_subif_t;$/;"	t	typeref:struct:__anon7
+tcpudp_header_t	api_format.c	/^} tcpudp_header_t;$/;"	t	typeref:struct:__anon5	file:
+type	json_format.h	/^  vat_json_val_type_t type;$/;"	m	struct:vat_json_node_s
+uint	json_format.h	/^    u64 uint;$/;"	m	union:vat_json_node_s::__anon17
+unformat_classify_mask	api_format.c	/^unformat_classify_mask (unformat_input_t * input, va_list * args)$/;"	f
+unformat_dscp	api_format.c	/^unformat_dscp (unformat_input_t * input, va_list * va)$/;"	f	file:
+unformat_ethernet_address	api_format.c	/^unformat_ethernet_address (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ethernet_address	plugin_api.c	/^unformat_ethernet_address (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ethernet_type_host_byte_order	api_format.c	/^unformat_ethernet_type_host_byte_order (unformat_input_t * input,$/;"	f
+unformat_ethernet_type_host_byte_order	plugin_api.c	/^unformat_ethernet_type_host_byte_order (unformat_input_t * input,$/;"	f
+unformat_flow_classify_table_type	api_format.c	/^unformat_flow_classify_table_type (unformat_input_t * input, va_list * va)$/;"	f	file:
+unformat_geneve_decap_next	api_format.c	/^static uword unformat_geneve_decap_next$/;"	f	file:
+unformat_gpe_encap_mode	api_format.c	/^unformat_gpe_encap_mode (unformat_input_t * input, va_list * args)$/;"	f
+unformat_hmac_key_id	api_format.c	/^unformat_hmac_key_id (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ikev2_auth_method	api_format.c	/^unformat_ikev2_auth_method (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ikev2_id_type	api_format.c	/^unformat_ikev2_id_type (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ip4_address	api_format.c	/^unformat_ip4_address (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ip4_address	plugin_api.c	/^unformat_ip4_address (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ip4_mask	api_format.c	/^unformat_ip4_mask (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ip4_match	api_format.c	/^unformat_ip4_match (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ip6_address	api_format.c	/^unformat_ip6_address (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ip6_address	plugin_api.c	/^unformat_ip6_address (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ip6_mask	api_format.c	/^unformat_ip6_mask (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ip6_match	api_format.c	/^unformat_ip6_match (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ipsec_crypto_alg	api_format.c	/^unformat_ipsec_crypto_alg (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ipsec_integ_alg	api_format.c	/^unformat_ipsec_integ_alg (unformat_input_t * input, va_list * args)$/;"	f
+unformat_ipsec_policy_action	api_format.c	/^unformat_ipsec_policy_action (unformat_input_t * input, va_list * args)$/;"	f
+unformat_l2_mask	api_format.c	/^unformat_l2_mask (unformat_input_t * input, va_list * args)$/;"	f
+unformat_l2_match	api_format.c	/^unformat_l2_match (unformat_input_t * input, va_list * args)$/;"	f
+unformat_l2_next_index	api_format.c	/^unformat_l2_next_index (unformat_input_t * input, va_list * args)$/;"	f
+unformat_l3_mask	api_format.c	/^unformat_l3_mask (unformat_input_t * input, va_list * args)$/;"	f
+unformat_l3_match	api_format.c	/^unformat_l3_match (unformat_input_t * input, va_list * args)$/;"	f
+unformat_l4_mask	api_format.c	/^unformat_l4_mask (unformat_input_t * input, va_list * args)$/;"	f
+unformat_l4_match	api_format.c	/^unformat_l4_match (unformat_input_t * input, va_list * args)$/;"	f
+unformat_lisp_eid_vat	api_format.c	/^unformat_lisp_eid_vat (unformat_input_t * input, va_list * args)$/;"	f	file:
+unformat_lisp_transport_protocol	api_format.c	/^unformat_lisp_transport_protocol (unformat_input_t * input, va_list * args)$/;"	f
+unformat_mfib_entry_flags	api_format.c	/^unformat_mfib_entry_flags (unformat_input_t * input, va_list * args)$/;"	f
+unformat_mfib_itf_flags	api_format.c	/^unformat_mfib_itf_flags (unformat_input_t * input, va_list * args)$/;"	f
+unformat_negative_mapping_action	api_format.c	/^unformat_negative_mapping_action (unformat_input_t * input, va_list * args)$/;"	f
+unformat_nsh_address	api_format.c	/^unformat_nsh_address (unformat_input_t * input, va_list * args)$/;"	f
+unformat_policer_action_type	api_format.c	/^unformat_policer_action_type (unformat_input_t * input, va_list * va)$/;"	f	file:
+unformat_policer_classify_table_type	api_format.c	/^unformat_policer_classify_table_type (unformat_input_t * input, va_list * va)$/;"	f	file:
+unformat_policer_precolor	api_format.c	/^unformat_policer_precolor (unformat_input_t * input, va_list * args)$/;"	f
+unformat_policer_rate_type	api_format.c	/^unformat_policer_rate_type (unformat_input_t * input, va_list * args)$/;"	f	file:
+unformat_policer_round_type	api_format.c	/^unformat_policer_round_type (unformat_input_t * input, va_list * args)$/;"	f	file:
+unformat_policer_type	api_format.c	/^unformat_policer_type (unformat_input_t * input, va_list * args)$/;"	f	file:
+unformat_sw_if_index	plugin_api.c	/^unformat_sw_if_index (unformat_input_t * input, va_list * args)$/;"	f
+unformat_tcp_mask	api_format.c	/^unformat_tcp_mask (unformat_input_t * input, va_list * args)$/;"	f
+unformat_udp_mask	api_format.c	/^unformat_udp_mask (unformat_input_t * input, va_list * args)$/;"	f
+unformat_vlan_tag	api_format.c	/^unformat_vlan_tag (unformat_input_t * input, va_list * args)$/;"	f
+unformat_vxlan_decap_next	api_format.c	/^static uword unformat_vxlan_decap_next$/;"	f	file:
+unset	api_format.c	/^unset (vat_main_t * vam)$/;"	f	file:
+value	api_format.c	/^  u32 value;$/;"	m	struct:__anon4	file:
+value	api_format.c	/^  u8 *value;$/;"	m	struct:__anon6	file:
+value	json_format.h	/^  vat_json_node_t value;$/;"	m	struct:vat_json_pair_s
+value_sort_cmp	api_format.c	/^value_sort_cmp (void *a1, void *a2)$/;"	f	file:
+vat_api_hookup	api_format.c	/^vat_api_hookup (vat_main_t * vam)$/;"	f
+vat_api_hookup_shim	api_format.c	/^VLIB_API_INIT_FUNCTION (vat_api_hookup_shim);$/;"	v
+vat_api_hookup_shim	api_format.c	/^vat_api_hookup_shim (vlib_main_t * vm)$/;"	f	file:
+vat_json_array_add	json_format.h	/^vat_json_array_add (vat_json_node_t * json)$/;"	f
+vat_json_array_add_int	json_format.h	/^vat_json_array_add_int (vat_json_node_t * json, i64 number)$/;"	f
+vat_json_array_add_uint	json_format.h	/^vat_json_array_add_uint (vat_json_node_t * json, u64 number)$/;"	f
+vat_json_format_ip4_address	json_format.c	/^vat_json_format_ip4_address (u8 * s, va_list * args)$/;"	f	file:
+vat_json_format_ip6_address	json_format.c	/^vat_json_format_ip6_address (u8 * s, va_list * args)$/;"	f	file:
+vat_json_free	json_format.c	/^vat_json_free (vat_json_node_t * node)$/;"	f
+vat_json_indent_line	json_format.c	/^vat_json_indent_line (vat_print_ctx_t * ctx, char *fmt, ...)$/;"	f	file:
+vat_json_indent_print	json_format.c	/^vat_json_indent_print (vat_print_ctx_t * ctx)$/;"	f	file:
+vat_json_init_array	json_format.h	/^vat_json_init_array (vat_json_node_t * json)$/;"	f
+vat_json_init_object	json_format.h	/^vat_json_init_object (vat_json_node_t * json)$/;"	f
+vat_json_node_s	json_format.h	/^struct vat_json_node_s$/;"	s
+vat_json_node_t	json_format.h	/^typedef struct vat_json_node_s vat_json_node_t;$/;"	t	typeref:struct:vat_json_node_s
+vat_json_object_add	json_format.h	/^vat_json_object_add (vat_json_node_t * json, const char *name)$/;"	f
+vat_json_object_add_bytes	json_format.h	/^vat_json_object_add_bytes (vat_json_node_t * json,$/;"	f
+vat_json_object_add_int	json_format.h	/^vat_json_object_add_int (vat_json_node_t * json, const char *name, i64 number)$/;"	f
+vat_json_object_add_ip4	json_format.h	/^vat_json_object_add_ip4 (vat_json_node_t * json,$/;"	f
+vat_json_object_add_ip6	json_format.h	/^vat_json_object_add_ip6 (vat_json_node_t * json,$/;"	f
+vat_json_object_add_list	json_format.h	/^vat_json_object_add_list (vat_json_node_t * json, const char *name)$/;"	f
+vat_json_object_add_real	json_format.h	/^vat_json_object_add_real (vat_json_node_t * json, const char *name, f64 real)$/;"	f
+vat_json_object_add_string_copy	json_format.h	/^vat_json_object_add_string_copy (vat_json_node_t * json,$/;"	f
+vat_json_object_add_uint	json_format.h	/^vat_json_object_add_uint (vat_json_node_t * json,$/;"	f
+vat_json_object_get_element	json_format.h	/^vat_json_object_get_element (vat_json_node_t * json, const char *name)$/;"	f
+vat_json_pair_s	json_format.h	/^struct vat_json_pair_s$/;"	s
+vat_json_pair_t	json_format.h	/^typedef struct vat_json_pair_s vat_json_pair_t;$/;"	t	typeref:struct:vat_json_pair_s
+vat_json_print	json_format.c	/^vat_json_print (FILE * ofp, vat_json_node_t * node)$/;"	f
+vat_json_print_internal	json_format.c	/^vat_json_print_internal (vat_print_ctx_t * ctx, vat_json_node_t * node)$/;"	f	file:
+vat_json_set_int	json_format.h	/^vat_json_set_int (vat_json_node_t * json, i64 num)$/;"	f
+vat_json_set_ip4	json_format.h	/^vat_json_set_ip4 (vat_json_node_t * json, struct in_addr ip4)$/;"	f
+vat_json_set_ip6	json_format.h	/^vat_json_set_ip6 (vat_json_node_t * json, struct in6_addr ip6)$/;"	f
+vat_json_set_real	json_format.h	/^vat_json_set_real (vat_json_node_t * json, f64 real)$/;"	f
+vat_json_set_string	json_format.h	/^vat_json_set_string (vat_json_node_t * json, u8 * str)$/;"	f
+vat_json_set_string_copy	json_format.h	/^vat_json_set_string_copy (vat_json_node_t * json, const u8 * str)$/;"	f
+vat_json_set_uint	json_format.h	/^vat_json_set_uint (vat_json_node_t * json, u64 num)$/;"	f
+vat_json_val_type_t	json_format.h	/^} vat_json_val_type_t;$/;"	t	typeref:enum:__anon16
+vat_load_new_plugins	plugin.c	/^vat_load_new_plugins (plugin_main_t * pm)$/;"	f
+vat_main	main.c	/^vat_main_t vat_main;$/;"	v
+vat_main	plugin.h	/^  vat_main_t *vat_main;$/;"	m	struct:__anon2
+vat_main_t	vat.h	/^} vat_main_t;$/;"	t	typeref:struct:__anon15
+vat_plugin_api_reference	plugin_api.c	/^vat_plugin_api_reference (void)$/;"	f
+vat_plugin_init	plugin.c	/^vat_plugin_init (vat_main_t * vam)$/;"	f
+vat_plugin_main	plugin.c	/^plugin_main_t vat_plugin_main;$/;"	v
+vat_plugin_name_filter	plugin.c	/^char *vat_plugin_name_filter = 0;$/;"	v
+vat_plugin_name_filter	vat.h	/^char *vat_plugin_name_filter;$/;"	v
+vat_plugin_path	plugin.c	/^char *vat_plugin_path = "\/usr\/lib\/vpp_api_test_plugins";$/;"	v
+vat_plugin_path	vat.h	/^char *vat_plugin_path;$/;"	v
+vat_print_ctx_s	json_format.c	/^typedef struct vat_print_ctx_s$/;"	s	file:
+vat_print_ctx_t	json_format.c	/^} vat_print_ctx_t;$/;"	t	typeref:struct:vat_print_ctx_s	file:
+vat_socket_connect	api_format.c	/^vat_socket_connect (vat_main_t * vam)$/;"	f
+vat_suspend	main.c	/^vat_suspend (vlib_main_t * vm, f64 interval)$/;"	f
+vat_time_now	api_format.c	/^vat_time_now (vat_main_t * vam)$/;"	f
+vl	api_format.c	/^vl (void *p)$/;"	f
+vl_api_add_node_next_reply_t_handler	api_format.c	/^static void vl_api_add_node_next_reply_t_handler$/;"	f	file:
+vl_api_add_node_next_reply_t_handler_json	api_format.c	/^static void vl_api_add_node_next_reply_t_handler_json$/;"	f	file:
+vl_api_af_packet_create_reply_t_handler	api_format.c	/^static void vl_api_af_packet_create_reply_t_handler$/;"	f	file:
+vl_api_af_packet_create_reply_t_handler_json	api_format.c	/^static void vl_api_af_packet_create_reply_t_handler_json$/;"	f	file:
+vl_api_app_namespace_add_del_reply_t_handler	api_format.c	/^static void vl_api_app_namespace_add_del_reply_t_handler$/;"	f	file:
+vl_api_app_namespace_add_del_reply_t_handler_json	api_format.c	/^static void vl_api_app_namespace_add_del_reply_t_handler_json$/;"	f	file:
+vl_api_bridge_domain_details_t_endian	api_format.c	1365;"	d	file:
+vl_api_bridge_domain_details_t_handler	api_format.c	/^static void vl_api_bridge_domain_details_t_handler$/;"	f	file:
+vl_api_bridge_domain_details_t_handler_json	api_format.c	/^static void vl_api_bridge_domain_details_t_handler_json$/;"	f	file:
+vl_api_bridge_domain_details_t_print	api_format.c	1366;"	d	file:
+vl_api_bridge_domain_set_mac_age_reply_t_handler	api_format.c	/^  vl_api_bridge_domain_set_mac_age_reply_t_handler$/;"	f	file:
+vl_api_bridge_domain_set_mac_age_reply_t_handler_json	api_format.c	/^static void vl_api_bridge_domain_set_mac_age_reply_t_handler_json$/;"	f	file:
+vl_api_bridge_flags_reply_t_handler	api_format.c	/^static void vl_api_bridge_flags_reply_t_handler$/;"	f	file:
+vl_api_bridge_flags_reply_t_handler_json	api_format.c	/^static void vl_api_bridge_flags_reply_t_handler_json$/;"	f	file:
+vl_api_classify_add_del_table_reply_t_handler	api_format.c	/^static void vl_api_classify_add_del_table_reply_t_handler$/;"	f	file:
+vl_api_classify_add_del_table_reply_t_handler_json	api_format.c	/^static void vl_api_classify_add_del_table_reply_t_handler_json$/;"	f	file:
+vl_api_classify_session_details_t_handler	api_format.c	/^vl_api_classify_session_details_t_handler (vl_api_classify_session_details_t *$/;"	f	file:
+vl_api_classify_session_details_t_handler_json	api_format.c	/^  vl_api_classify_session_details_t_handler_json$/;"	f	file:
+vl_api_classify_table_by_interface_reply_t_handler	api_format.c	/^  vl_api_classify_table_by_interface_reply_t_handler$/;"	f	file:
+vl_api_classify_table_by_interface_reply_t_handler_json	api_format.c	/^  vl_api_classify_table_by_interface_reply_t_handler_json$/;"	f	file:
+vl_api_classify_table_ids_reply_t_handler	api_format.c	/^vl_api_classify_table_ids_reply_t_handler (vl_api_classify_table_ids_reply_t *$/;"	f	file:
+vl_api_classify_table_ids_reply_t_handler_json	api_format.c	/^  vl_api_classify_table_ids_reply_t_handler_json$/;"	f	file:
+vl_api_classify_table_info_reply_t_handler	api_format.c	/^vl_api_classify_table_info_reply_t_handler (vl_api_classify_table_info_reply_t$/;"	f	file:
+vl_api_classify_table_info_reply_t_handler_json	api_format.c	/^  vl_api_classify_table_info_reply_t_handler_json$/;"	f	file:
+vl_api_cli_inband_reply_t_handler	api_format.c	/^vl_api_cli_inband_reply_t_handler (vl_api_cli_inband_reply_t * mp)$/;"	f	file:
+vl_api_cli_inband_reply_t_handler_json	api_format.c	/^vl_api_cli_inband_reply_t_handler_json (vl_api_cli_inband_reply_t * mp)$/;"	f	file:
+vl_api_cli_reply_t_handler	api_format.c	/^vl_api_cli_reply_t_handler (vl_api_cli_reply_t * mp)$/;"	f	file:
+vl_api_cli_reply_t_handler_json	api_format.c	/^vl_api_cli_reply_t_handler_json (vl_api_cli_reply_t * mp)$/;"	f	file:
+vl_api_control_ping_reply_t_handler	api_format.c	/^static void vl_api_control_ping_reply_t_handler$/;"	f	file:
+vl_api_control_ping_reply_t_handler_json	api_format.c	/^static void vl_api_control_ping_reply_t_handler_json$/;"	f	file:
+vl_api_create_loopback_instance_reply_t_handler	api_format.c	/^static void vl_api_create_loopback_instance_reply_t_handler$/;"	f	file:
+vl_api_create_loopback_instance_reply_t_handler_json	api_format.c	/^static void vl_api_create_loopback_instance_reply_t_handler_json$/;"	f	file:
+vl_api_create_loopback_reply_t_handler	api_format.c	/^static void vl_api_create_loopback_reply_t_handler$/;"	f	file:
+vl_api_create_loopback_reply_t_handler_json	api_format.c	/^static void vl_api_create_loopback_reply_t_handler_json$/;"	f	file:
+vl_api_create_subif_reply_t_handler	api_format.c	/^static void vl_api_create_subif_reply_t_handler$/;"	f	file:
+vl_api_create_subif_reply_t_handler_json	api_format.c	/^static void vl_api_create_subif_reply_t_handler_json$/;"	f	file:
+vl_api_create_vhost_user_if_reply_t_handler	api_format.c	/^static void vl_api_create_vhost_user_if_reply_t_handler$/;"	f	file:
+vl_api_create_vhost_user_if_reply_t_handler_json	api_format.c	/^static void vl_api_create_vhost_user_if_reply_t_handler_json$/;"	f	file:
+vl_api_create_vlan_subif_reply_t_handler	api_format.c	/^static void vl_api_create_vlan_subif_reply_t_handler$/;"	f	file:
+vl_api_create_vlan_subif_reply_t_handler_json	api_format.c	/^static void vl_api_create_vlan_subif_reply_t_handler_json$/;"	f	file:
+vl_api_dhcp_compl_event_t_handler	api_format.c	/^vl_api_dhcp_compl_event_t_handler (vl_api_dhcp_compl_event_t * mp)$/;"	f	file:
+vl_api_dhcp_compl_event_t_handler_json	api_format.c	/^static void vl_api_dhcp_compl_event_t_handler_json$/;"	f	file:
+vl_api_dhcp_proxy_details_t_endian	api_format.c	9536;"	d	file:
+vl_api_dhcp_proxy_details_t_handler	api_format.c	/^vl_api_dhcp_proxy_details_t_handler (vl_api_dhcp_proxy_details_t * mp)$/;"	f	file:
+vl_api_dhcp_proxy_details_t_handler_json	api_format.c	/^static void vl_api_dhcp_proxy_details_t_handler_json$/;"	f	file:
+vl_api_dhcp_proxy_details_t_print	api_format.c	9537;"	d	file:
+vl_api_dns_resolve_ip_reply_t_handler	api_format.c	/^static void vl_api_dns_resolve_ip_reply_t_handler$/;"	f	file:
+vl_api_dns_resolve_ip_reply_t_handler_json	api_format.c	/^static void vl_api_dns_resolve_ip_reply_t_handler_json$/;"	f	file:
+vl_api_dns_resolve_name_reply_t_handler	api_format.c	/^static void vl_api_dns_resolve_name_reply_t_handler$/;"	f	file:
+vl_api_dns_resolve_name_reply_t_handler_json	api_format.c	/^static void vl_api_dns_resolve_name_reply_t_handler_json$/;"	f	file:
+vl_api_flow_classify_details_t_handler	api_format.c	/^static void vl_api_flow_classify_details_t_handler$/;"	f	file:
+vl_api_flow_classify_details_t_handler_json	api_format.c	/^static void vl_api_flow_classify_details_t_handler_json$/;"	f	file:
+vl_api_geneve_add_del_tunnel_reply_t_handler	api_format.c	/^static void vl_api_geneve_add_del_tunnel_reply_t_handler$/;"	f	file:
+vl_api_geneve_add_del_tunnel_reply_t_handler_json	api_format.c	/^static void vl_api_geneve_add_del_tunnel_reply_t_handler_json$/;"	f	file:
+vl_api_geneve_tunnel_details_t_handler	api_format.c	/^static void vl_api_geneve_tunnel_details_t_handler$/;"	f	file:
+vl_api_geneve_tunnel_details_t_handler_json	api_format.c	/^static void vl_api_geneve_tunnel_details_t_handler_json$/;"	f	file:
+vl_api_get_first_msg_id_reply_t_handler	api_format.c	/^static void vl_api_get_first_msg_id_reply_t_handler$/;"	f	file:
+vl_api_get_first_msg_id_reply_t_handler_json	api_format.c	/^static void vl_api_get_first_msg_id_reply_t_handler_json$/;"	f	file:
+vl_api_get_next_index_reply_t_handler	api_format.c	/^static void vl_api_get_next_index_reply_t_handler$/;"	f	file:
+vl_api_get_next_index_reply_t_handler_json	api_format.c	/^static void vl_api_get_next_index_reply_t_handler_json$/;"	f	file:
+vl_api_get_node_graph_reply_t_handler	api_format.c	/^static void vl_api_get_node_graph_reply_t_handler$/;"	f	file:
+vl_api_get_node_graph_reply_t_handler_json	api_format.c	/^static void vl_api_get_node_graph_reply_t_handler_json$/;"	f	file:
+vl_api_get_node_index_reply_t_handler	api_format.c	/^static void vl_api_get_node_index_reply_t_handler$/;"	f	file:
+vl_api_get_node_index_reply_t_handler_json	api_format.c	/^static void vl_api_get_node_index_reply_t_handler_json$/;"	f	file:
+vl_api_gpe_add_del_fwd_entry_reply_t_handler	api_format.c	/^static void vl_api_gpe_add_del_fwd_entry_reply_t_handler$/;"	f	file:
+vl_api_gpe_add_del_fwd_entry_reply_t_handler_json	api_format.c	/^static void vl_api_gpe_add_del_fwd_entry_reply_t_handler_json$/;"	f	file:
+vl_api_gpe_fwd_entries_get_reply_t_endian	api_format.c	18865;"	d	file:
+vl_api_gpe_fwd_entries_get_reply_t_handler	api_format.c	/^  vl_api_gpe_fwd_entries_get_reply_t_handler$/;"	f	file:
+vl_api_gpe_fwd_entries_get_reply_t_handler_json	api_format.c	/^  vl_api_gpe_fwd_entries_get_reply_t_handler_json$/;"	f	file:
+vl_api_gpe_fwd_entries_get_reply_t_print	api_format.c	18866;"	d	file:
+vl_api_gpe_fwd_entry_path_details_t_endian	api_format.c	18867;"	d	file:
+vl_api_gpe_fwd_entry_path_details_t_handler	api_format.c	/^  vl_api_gpe_fwd_entry_path_details_t_handler$/;"	f	file:
+vl_api_gpe_fwd_entry_path_details_t_handler_json	api_format.c	/^  vl_api_gpe_fwd_entry_path_details_t_handler_json$/;"	f	file:
+vl_api_gpe_fwd_entry_path_details_t_print	api_format.c	18868;"	d	file:
+vl_api_gpe_fwd_entry_vnis_get_reply_t_endian	api_format.c	18863;"	d	file:
+vl_api_gpe_fwd_entry_vnis_get_reply_t_handler	api_format.c	/^  vl_api_gpe_fwd_entry_vnis_get_reply_t_handler$/;"	f	file:
+vl_api_gpe_fwd_entry_vnis_get_reply_t_handler_json	api_format.c	/^  vl_api_gpe_fwd_entry_vnis_get_reply_t_handler_json$/;"	f	file:
+vl_api_gpe_fwd_entry_vnis_get_reply_t_print	api_format.c	18864;"	d	file:
+vl_api_gpe_get_encap_mode_reply_t_handler	api_format.c	/^  vl_api_gpe_get_encap_mode_reply_t_handler$/;"	f	file:
+vl_api_gpe_get_encap_mode_reply_t_handler_json	api_format.c	/^  vl_api_gpe_get_encap_mode_reply_t_handler_json$/;"	f	file:
+vl_api_gpe_native_fwd_rpaths_get_reply_t_endian	api_format.c	18861;"	d	file:
+vl_api_gpe_native_fwd_rpaths_get_reply_t_handler	api_format.c	/^  vl_api_gpe_native_fwd_rpaths_get_reply_t_handler$/;"	f	file:
+vl_api_gpe_native_fwd_rpaths_get_reply_t_handler_json	api_format.c	/^  vl_api_gpe_native_fwd_rpaths_get_reply_t_handler_json$/;"	f	file:
+vl_api_gpe_native_fwd_rpaths_get_reply_t_print	api_format.c	18862;"	d	file:
+vl_api_gre_add_del_tunnel_reply_t_handler	api_format.c	/^static void vl_api_gre_add_del_tunnel_reply_t_handler$/;"	f	file:
+vl_api_gre_add_del_tunnel_reply_t_handler_json	api_format.c	/^static void vl_api_gre_add_del_tunnel_reply_t_handler_json$/;"	f	file:
+vl_api_gre_tunnel_details_t_handler	api_format.c	/^static void vl_api_gre_tunnel_details_t_handler$/;"	f	file:
+vl_api_gre_tunnel_details_t_handler_json	api_format.c	/^static void vl_api_gre_tunnel_details_t_handler_json$/;"	f	file:
+vl_api_interface_name_renumber_reply_t_handler	api_format.c	/^static void vl_api_interface_name_renumber_reply_t_handler$/;"	f	file:
+vl_api_interface_name_renumber_reply_t_handler_json	api_format.c	/^static void vl_api_interface_name_renumber_reply_t_handler_json$/;"	f	file:
+vl_api_ip4_arp_event_t_handler	api_format.c	/^vl_api_ip4_arp_event_t_handler (vl_api_ip4_arp_event_t * mp)$/;"	f	file:
+vl_api_ip4_arp_event_t_handler_json	api_format.c	/^vl_api_ip4_arp_event_t_handler_json (vl_api_ip4_arp_event_t * mp)$/;"	f	file:
+vl_api_ip6_fib_details_t_endian	api_format.c	20047;"	d	file:
+vl_api_ip6_fib_details_t_handler	api_format.c	/^vl_api_ip6_fib_details_t_handler (vl_api_ip6_fib_details_t * mp)$/;"	f	file:
+vl_api_ip6_fib_details_t_handler_json	api_format.c	/^static void vl_api_ip6_fib_details_t_handler_json$/;"	f	file:
+vl_api_ip6_fib_details_t_print	api_format.c	20048;"	d	file:
+vl_api_ip6_nd_event_t_handler	api_format.c	/^vl_api_ip6_nd_event_t_handler (vl_api_ip6_nd_event_t * mp)$/;"	f	file:
+vl_api_ip6_nd_event_t_handler_json	api_format.c	/^vl_api_ip6_nd_event_t_handler_json (vl_api_ip6_nd_event_t * mp)$/;"	f	file:
+vl_api_ip6nd_proxy_details_t_handler	api_format.c	/^static void vl_api_ip6nd_proxy_details_t_handler$/;"	f	file:
+vl_api_ip6nd_proxy_details_t_handler_json	api_format.c	/^static void vl_api_ip6nd_proxy_details_t_handler_json$/;"	f	file:
+vl_api_ip_address_details_t_handler	api_format.c	/^static void vl_api_ip_address_details_t_handler$/;"	f	file:
+vl_api_ip_address_details_t_handler_json	api_format.c	/^static void vl_api_ip_address_details_t_handler_json$/;"	f	file:
+vl_api_ip_details_t_handler	api_format.c	/^vl_api_ip_details_t_handler (vl_api_ip_details_t * mp)$/;"	f	file:
+vl_api_ip_details_t_handler_json	api_format.c	/^vl_api_ip_details_t_handler_json (vl_api_ip_details_t * mp)$/;"	f	file:
+vl_api_ip_fib_details_t_endian	api_format.c	19837;"	d	file:
+vl_api_ip_fib_details_t_handler	api_format.c	/^vl_api_ip_fib_details_t_handler (vl_api_ip_fib_details_t * mp)$/;"	f	file:
+vl_api_ip_fib_details_t_handler_json	api_format.c	/^static void vl_api_ip_fib_details_t_handler_json$/;"	f	file:
+vl_api_ip_fib_details_t_print	api_format.c	19838;"	d	file:
+vl_api_ip_neighbor_details_t_handler	api_format.c	/^static void vl_api_ip_neighbor_details_t_handler$/;"	f	file:
+vl_api_ip_neighbor_details_t_handler_json	api_format.c	/^static void vl_api_ip_neighbor_details_t_handler_json$/;"	f	file:
+vl_api_ipfix_classify_stream_details_t_handler	api_format.c	/^  vl_api_ipfix_classify_stream_details_t_handler$/;"	f	file:
+vl_api_ipfix_classify_stream_details_t_handler_json	api_format.c	/^  vl_api_ipfix_classify_stream_details_t_handler_json$/;"	f	file:
+vl_api_ipfix_classify_table_details_t_handler	api_format.c	/^  vl_api_ipfix_classify_table_details_t_handler$/;"	f	file:
+vl_api_ipfix_classify_table_details_t_handler_json	api_format.c	/^  vl_api_ipfix_classify_table_details_t_handler_json$/;"	f	file:
+vl_api_ipfix_exporter_details_t_handler	api_format.c	/^vl_api_ipfix_exporter_details_t_handler (vl_api_ipfix_exporter_details_t * mp)$/;"	f	file:
+vl_api_ipfix_exporter_details_t_handler_json	api_format.c	/^  vl_api_ipfix_exporter_details_t_handler_json$/;"	f	file:
+vl_api_ipsec_gre_add_del_tunnel_reply_t_handler	api_format.c	/^static void vl_api_ipsec_gre_add_del_tunnel_reply_t_handler$/;"	f	file:
+vl_api_ipsec_gre_add_del_tunnel_reply_t_handler_json	api_format.c	/^static void vl_api_ipsec_gre_add_del_tunnel_reply_t_handler_json$/;"	f	file:
+vl_api_ipsec_gre_tunnel_details_t_handler	api_format.c	/^static void vl_api_ipsec_gre_tunnel_details_t_handler$/;"	f	file:
+vl_api_ipsec_gre_tunnel_details_t_handler_json	api_format.c	/^static void vl_api_ipsec_gre_tunnel_details_t_handler_json$/;"	f	file:
+vl_api_ipsec_sa_details_t_endian	api_format.c	14912;"	d	file:
+vl_api_ipsec_sa_details_t_handler	api_format.c	/^vl_api_ipsec_sa_details_t_handler (vl_api_ipsec_sa_details_t * mp)$/;"	f	file:
+vl_api_ipsec_sa_details_t_handler_json	api_format.c	/^static void vl_api_ipsec_sa_details_t_handler_json$/;"	f	file:
+vl_api_ipsec_sa_details_t_print	api_format.c	14913;"	d	file:
+vl_api_l2_fib_table_details_t_handler	api_format.c	/^static void vl_api_l2_fib_table_details_t_handler$/;"	f	file:
+vl_api_l2_fib_table_details_t_handler_json	api_format.c	/^static void vl_api_l2_fib_table_details_t_handler_json$/;"	f	file:
+vl_api_l2_flags_reply_t_handler	api_format.c	/^vl_api_l2_flags_reply_t_handler (vl_api_l2_flags_reply_t * mp)$/;"	f	file:
+vl_api_l2_flags_reply_t_handler_json	api_format.c	/^static void vl_api_l2_flags_reply_t_handler_json$/;"	f	file:
+vl_api_l2_macs_event_t_handler	api_format.c	/^vl_api_l2_macs_event_t_handler (vl_api_l2_macs_event_t * mp)$/;"	f	file:
+vl_api_l2_macs_event_t_handler_json	api_format.c	/^vl_api_l2_macs_event_t_handler_json (vl_api_l2_macs_event_t * mp)$/;"	f	file:
+vl_api_l2_xconnect_details_t_handler	api_format.c	/^static void vl_api_l2_xconnect_details_t_handler$/;"	f	file:
+vl_api_l2_xconnect_details_t_handler_json	api_format.c	/^static void vl_api_l2_xconnect_details_t_handler_json$/;"	f	file:
+vl_api_l2tpv3_create_tunnel_reply_t_handler	api_format.c	/^static void vl_api_l2tpv3_create_tunnel_reply_t_handler$/;"	f	file:
+vl_api_l2tpv3_create_tunnel_reply_t_handler_json	api_format.c	/^static void vl_api_l2tpv3_create_tunnel_reply_t_handler_json$/;"	f	file:
+vl_api_map_add_domain_reply_t_handler	api_format.c	/^static void vl_api_map_add_domain_reply_t_handler$/;"	f	file:
+vl_api_map_add_domain_reply_t_handler_json	api_format.c	/^static void vl_api_map_add_domain_reply_t_handler_json$/;"	f	file:
+vl_api_map_domain_details_t_handler	api_format.c	/^static void vl_api_map_domain_details_t_handler$/;"	f	file:
+vl_api_map_domain_details_t_handler_json	api_format.c	/^static void vl_api_map_domain_details_t_handler_json$/;"	f	file:
+vl_api_map_rule_details_t_handler	api_format.c	/^vl_api_map_rule_details_t_handler (vl_api_map_rule_details_t * mp)$/;"	f	file:
+vl_api_map_rule_details_t_handler_json	api_format.c	/^static void vl_api_map_rule_details_t_handler_json$/;"	f	file:
+vl_api_memfd_segment_create_reply_t_handler	api_format.c	/^static void vl_api_memfd_segment_create_reply_t_handler$/;"	f	file:
+vl_api_memfd_segment_create_reply_t_handler_json	api_format.c	/^static void vl_api_memfd_segment_create_reply_t_handler_json$/;"	f	file:
+vl_api_mpls_fib_details_t_endian	api_format.c	19767;"	d	file:
+vl_api_mpls_fib_details_t_handler	api_format.c	/^vl_api_mpls_fib_details_t_handler (vl_api_mpls_fib_details_t * mp)$/;"	f	file:
+vl_api_mpls_fib_details_t_handler_json	api_format.c	/^static void vl_api_mpls_fib_details_t_handler_json$/;"	f	file:
+vl_api_mpls_fib_details_t_print	api_format.c	19768;"	d	file:
+vl_api_mpls_fib_path_json_print	api_format.c	/^vl_api_mpls_fib_path_json_print (vat_json_node_t * node,$/;"	f	file:
+vl_api_mpls_fib_path_print	api_format.c	/^vl_api_mpls_fib_path_print (vat_main_t * vam, vl_api_fib_path2_t * fp)$/;"	f	file:
+vl_api_mpls_tunnel_add_del_reply_t_handler	api_format.c	/^static void vl_api_mpls_tunnel_add_del_reply_t_handler$/;"	f	file:
+vl_api_mpls_tunnel_add_del_reply_t_handler_json	api_format.c	/^static void vl_api_mpls_tunnel_add_del_reply_t_handler_json$/;"	f	file:
+vl_api_mpls_tunnel_details_t_endian	api_format.c	19701;"	d	file:
+vl_api_mpls_tunnel_details_t_handler	api_format.c	/^vl_api_mpls_tunnel_details_t_handler (vl_api_mpls_tunnel_details_t * mp)$/;"	f	file:
+vl_api_mpls_tunnel_details_t_handler_json	api_format.c	/^vl_api_mpls_tunnel_details_t_handler_json (vl_api_mpls_tunnel_details_t * mp)$/;"	f	file:
+vl_api_mpls_tunnel_details_t_print	api_format.c	19702;"	d	file:
+vl_api_one_add_del_locator_set_reply_t_handler	api_format.c	/^static void vl_api_one_add_del_locator_set_reply_t_handler$/;"	f	file:
+vl_api_one_add_del_locator_set_reply_t_handler_json	api_format.c	/^static void vl_api_one_add_del_locator_set_reply_t_handler_json$/;"	f	file:
+vl_api_one_adjacencies_get_reply_t_endian	api_format.c	5226;"	d	file:
+vl_api_one_adjacencies_get_reply_t_handler	api_format.c	/^  vl_api_one_adjacencies_get_reply_t_handler$/;"	f	file:
+vl_api_one_adjacencies_get_reply_t_handler_json	api_format.c	/^  vl_api_one_adjacencies_get_reply_t_handler_json$/;"	f	file:
+vl_api_one_adjacencies_get_reply_t_print	api_format.c	5227;"	d	file:
+vl_api_one_eid_table_details_t_handler	api_format.c	/^vl_api_one_eid_table_details_t_handler (vl_api_one_eid_table_details_t * mp)$/;"	f	file:
+vl_api_one_eid_table_details_t_handler_json	api_format.c	/^vl_api_one_eid_table_details_t_handler_json (vl_api_one_eid_table_details_t$/;"	f	file:
+vl_api_one_eid_table_map_details_t_handler	api_format.c	/^  vl_api_one_eid_table_map_details_t_handler$/;"	f	file:
+vl_api_one_eid_table_map_details_t_handler_json	api_format.c	/^  vl_api_one_eid_table_map_details_t_handler_json$/;"	f	file:
+vl_api_one_eid_table_vni_details_t_handler	api_format.c	/^  vl_api_one_eid_table_vni_details_t_handler$/;"	f	file:
+vl_api_one_eid_table_vni_details_t_handler_json	api_format.c	/^  vl_api_one_eid_table_vni_details_t_handler_json$/;"	f	file:
+vl_api_one_get_map_request_itr_rlocs_reply_t_handler	api_format.c	/^  vl_api_one_get_map_request_itr_rlocs_reply_t_handler$/;"	f	file:
+vl_api_one_get_map_request_itr_rlocs_reply_t_handler_json	api_format.c	/^  vl_api_one_get_map_request_itr_rlocs_reply_t_handler_json$/;"	f	file:
+vl_api_one_get_transport_protocol_reply_t_handler	api_format.c	/^static void vl_api_one_get_transport_protocol_reply_t_handler$/;"	f	file:
+vl_api_one_get_transport_protocol_reply_t_handler_json	api_format.c	/^static void vl_api_one_get_transport_protocol_reply_t_handler_json$/;"	f	file:
+vl_api_one_l2_arp_bd_get_reply_t_endian	api_format.c	5231;"	d	file:
+vl_api_one_l2_arp_bd_get_reply_t_handler	api_format.c	/^  vl_api_one_l2_arp_bd_get_reply_t_handler$/;"	f	file:
+vl_api_one_l2_arp_bd_get_reply_t_handler_json	api_format.c	/^  vl_api_one_l2_arp_bd_get_reply_t_handler_json$/;"	f	file:
+vl_api_one_l2_arp_bd_get_reply_t_print	api_format.c	5228;"	d	file:
+vl_api_one_l2_arp_entries_get_reply_t_endian	api_format.c	5229;"	d	file:
+vl_api_one_l2_arp_entries_get_reply_t_handler	api_format.c	/^  vl_api_one_l2_arp_entries_get_reply_t_handler$/;"	f	file:
+vl_api_one_l2_arp_entries_get_reply_t_handler_json	api_format.c	/^  vl_api_one_l2_arp_entries_get_reply_t_handler_json$/;"	f	file:
+vl_api_one_l2_arp_entries_get_reply_t_print	api_format.c	5230;"	d	file:
+vl_api_one_locator_details_t_handler	api_format.c	/^vl_api_one_locator_details_t_handler (vl_api_one_locator_details_t * mp)$/;"	f	file:
+vl_api_one_locator_details_t_handler_json	api_format.c	/^vl_api_one_locator_details_t_handler_json (vl_api_one_locator_details_t * mp)$/;"	f	file:
+vl_api_one_locator_set_details_t_handler	api_format.c	/^vl_api_one_locator_set_details_t_handler (vl_api_one_locator_set_details_t *$/;"	f	file:
+vl_api_one_locator_set_details_t_handler_json	api_format.c	/^  vl_api_one_locator_set_details_t_handler_json$/;"	f	file:
+vl_api_one_map_resolver_details_t_handler	api_format.c	/^vl_api_one_map_resolver_details_t_handler (vl_api_one_map_resolver_details_t$/;"	f	file:
+vl_api_one_map_resolver_details_t_handler_json	api_format.c	/^  vl_api_one_map_resolver_details_t_handler_json$/;"	f	file:
+vl_api_one_map_server_details_t_handler	api_format.c	/^vl_api_one_map_server_details_t_handler (vl_api_one_map_server_details_t * mp)$/;"	f	file:
+vl_api_one_map_server_details_t_handler_json	api_format.c	/^  vl_api_one_map_server_details_t_handler_json$/;"	f	file:
+vl_api_one_ndp_bd_get_reply_t_endian	api_format.c	5232;"	d	file:
+vl_api_one_ndp_bd_get_reply_t_handler	api_format.c	/^vl_api_one_ndp_bd_get_reply_t_handler (vl_api_one_ndp_bd_get_reply_t * mp)$/;"	f	file:
+vl_api_one_ndp_bd_get_reply_t_handler_json	api_format.c	/^  vl_api_one_ndp_bd_get_reply_t_handler_json$/;"	f	file:
+vl_api_one_ndp_bd_get_reply_t_print	api_format.c	5233;"	d	file:
+vl_api_one_ndp_entries_get_reply_t_endian	api_format.c	5235;"	d	file:
+vl_api_one_ndp_entries_get_reply_t_handler	api_format.c	/^  vl_api_one_ndp_entries_get_reply_t_handler$/;"	f	file:
+vl_api_one_ndp_entries_get_reply_t_handler_json	api_format.c	/^  vl_api_one_ndp_entries_get_reply_t_handler_json$/;"	f	file:
+vl_api_one_ndp_entries_get_reply_t_print	api_format.c	5234;"	d	file:
+vl_api_one_show_petr_mode_reply_t_handler	api_format.c	/^  vl_api_one_show_petr_mode_reply_t_handler$/;"	f	file:
+vl_api_one_show_petr_mode_reply_t_handler_json	api_format.c	/^  vl_api_one_show_petr_mode_reply_t_handler_json$/;"	f	file:
+vl_api_one_show_pitr_mode_reply_t_handler	api_format.c	/^  vl_api_one_show_pitr_mode_reply_t_handler$/;"	f	file:
+vl_api_one_show_pitr_mode_reply_t_handler_json	api_format.c	/^  vl_api_one_show_pitr_mode_reply_t_handler_json$/;"	f	file:
+vl_api_one_show_xtr_mode_reply_t_handler	api_format.c	/^  vl_api_one_show_xtr_mode_reply_t_handler$/;"	f	file:
+vl_api_one_show_xtr_mode_reply_t_handler_json	api_format.c	/^  vl_api_one_show_xtr_mode_reply_t_handler_json$/;"	f	file:
+vl_api_one_stats_details_t_handler	api_format.c	/^vl_api_one_stats_details_t_handler (vl_api_one_stats_details_t * mp)$/;"	f	file:
+vl_api_one_stats_details_t_handler_json	api_format.c	/^vl_api_one_stats_details_t_handler_json (vl_api_one_stats_details_t * mp)$/;"	f	file:
+vl_api_pg_create_interface_reply_t_handler	api_format.c	/^static void vl_api_pg_create_interface_reply_t_handler$/;"	f	file:
+vl_api_pg_create_interface_reply_t_handler_json	api_format.c	/^static void vl_api_pg_create_interface_reply_t_handler_json$/;"	f	file:
+vl_api_policer_add_del_reply_t_handler	api_format.c	/^static void vl_api_policer_add_del_reply_t_handler$/;"	f	file:
+vl_api_policer_add_del_reply_t_handler_json	api_format.c	/^static void vl_api_policer_add_del_reply_t_handler_json$/;"	f	file:
+vl_api_policer_classify_details_t_handler	api_format.c	/^static void vl_api_policer_classify_details_t_handler$/;"	f	file:
+vl_api_policer_classify_details_t_handler_json	api_format.c	/^static void vl_api_policer_classify_details_t_handler_json$/;"	f	file:
+vl_api_policer_details_t_handler	api_format.c	/^vl_api_policer_details_t_handler (vl_api_policer_details_t * mp)$/;"	f	file:
+vl_api_policer_details_t_handler_json	api_format.c	/^static void vl_api_policer_details_t_handler_json$/;"	f	file:
+vl_api_session_rules_details_t_handler	api_format.c	/^vl_api_session_rules_details_t_handler (vl_api_session_rules_details_t * mp)$/;"	f	file:
+vl_api_session_rules_details_t_handler_json	api_format.c	/^vl_api_session_rules_details_t_handler_json (vl_api_session_rules_details_t *$/;"	f	file:
+vl_api_show_one_map_register_fallback_threshold_reply_t_handler	api_format.c	/^  vl_api_show_one_map_register_fallback_threshold_reply_t_handler$/;"	f	file:
+vl_api_show_one_map_register_fallback_threshold_reply_t_handler_json	api_format.c	/^  vl_api_show_one_map_register_fallback_threshold_reply_t_handler_json$/;"	f	file:
+vl_api_show_one_map_register_state_reply_t_handler	api_format.c	/^  vl_api_show_one_map_register_state_reply_t_handler$/;"	f	file:
+vl_api_show_one_map_register_state_reply_t_handler_json	api_format.c	/^  vl_api_show_one_map_register_state_reply_t_handler_json$/;"	f	file:
+vl_api_show_one_map_register_ttl_reply_t_handler	api_format.c	/^  vl_api_show_one_map_register_ttl_reply_t_handler$/;"	f	file:
+vl_api_show_one_map_register_ttl_reply_t_handler_json	api_format.c	/^  vl_api_show_one_map_register_ttl_reply_t_handler_json$/;"	f	file:
+vl_api_show_one_map_request_mode_reply_t_handler	api_format.c	/^  vl_api_show_one_map_request_mode_reply_t_handler$/;"	f	file:
+vl_api_show_one_map_request_mode_reply_t_handler_json	api_format.c	/^  vl_api_show_one_map_request_mode_reply_t_handler_json$/;"	f	file:
+vl_api_show_one_nsh_mapping_reply_t_handler	api_format.c	/^  vl_api_show_one_nsh_mapping_reply_t_handler$/;"	f	file:
+vl_api_show_one_nsh_mapping_reply_t_handler_json	api_format.c	/^  vl_api_show_one_nsh_mapping_reply_t_handler_json$/;"	f	file:
+vl_api_show_one_pitr_reply_t_handler	api_format.c	/^vl_api_show_one_pitr_reply_t_handler (vl_api_show_one_pitr_reply_t * mp)$/;"	f	file:
+vl_api_show_one_pitr_reply_t_handler_json	api_format.c	/^vl_api_show_one_pitr_reply_t_handler_json (vl_api_show_one_pitr_reply_t * mp)$/;"	f	file:
+vl_api_show_one_rloc_probe_state_reply_t_handler	api_format.c	/^  vl_api_show_one_rloc_probe_state_reply_t_handler$/;"	f	file:
+vl_api_show_one_rloc_probe_state_reply_t_handler_json	api_format.c	/^  vl_api_show_one_rloc_probe_state_reply_t_handler_json$/;"	f	file:
+vl_api_show_one_stats_enable_disable_reply_t_handler	api_format.c	/^  vl_api_show_one_stats_enable_disable_reply_t_handler$/;"	f	file:
+vl_api_show_one_stats_enable_disable_reply_t_handler_json	api_format.c	/^  vl_api_show_one_stats_enable_disable_reply_t_handler_json$/;"	f	file:
+vl_api_show_one_status_reply_t_handler	api_format.c	/^vl_api_show_one_status_reply_t_handler (vl_api_show_one_status_reply_t * mp)$/;"	f	file:
+vl_api_show_one_status_reply_t_handler_json	api_format.c	/^  vl_api_show_one_status_reply_t_handler_json$/;"	f	file:
+vl_api_show_one_use_petr_reply_t_handler	api_format.c	/^  vl_api_show_one_use_petr_reply_t_handler$/;"	f	file:
+vl_api_show_one_use_petr_reply_t_handler_json	api_format.c	/^  vl_api_show_one_use_petr_reply_t_handler_json$/;"	f	file:
+vl_api_show_version_reply_t_handler	api_format.c	/^static void vl_api_show_version_reply_t_handler$/;"	f	file:
+vl_api_show_version_reply_t_handler_json	api_format.c	/^static void vl_api_show_version_reply_t_handler_json$/;"	f	file:
+vl_api_sw_if_l2tpv3_tunnel_details_t_handler	api_format.c	/^static void vl_api_sw_if_l2tpv3_tunnel_details_t_handler$/;"	f	file:
+vl_api_sw_if_l2tpv3_tunnel_details_t_handler_json	api_format.c	/^static void vl_api_sw_if_l2tpv3_tunnel_details_t_handler_json$/;"	f	file:
+vl_api_sw_interface_details_t_handler	api_format.c	/^static void vl_api_sw_interface_details_t_handler$/;"	f	file:
+vl_api_sw_interface_details_t_handler_json	api_format.c	/^static void vl_api_sw_interface_details_t_handler_json$/;"	f	file:
+vl_api_sw_interface_event_t_handler	api_format.c	/^static void vl_api_sw_interface_event_t_handler$/;"	f	file:
+vl_api_sw_interface_event_t_handler_json	api_format.c	/^static void vl_api_sw_interface_event_t_handler_json$/;"	f	file:
+vl_api_sw_interface_get_table_reply_t_handler	api_format.c	/^static void vl_api_sw_interface_get_table_reply_t_handler$/;"	f	file:
+vl_api_sw_interface_get_table_reply_t_handler_json	api_format.c	/^static void vl_api_sw_interface_get_table_reply_t_handler_json$/;"	f	file:
+vl_api_sw_interface_span_details_t_handler	api_format.c	/^vl_api_sw_interface_span_details_t_handler (vl_api_sw_interface_span_details_t$/;"	f	file:
+vl_api_sw_interface_span_details_t_handler_json	api_format.c	/^  vl_api_sw_interface_span_details_t_handler_json$/;"	f	file:
+vl_api_sw_interface_tap_details_t_handler	api_format.c	/^static void vl_api_sw_interface_tap_details_t_handler$/;"	f	file:
+vl_api_sw_interface_tap_details_t_handler_json	api_format.c	/^static void vl_api_sw_interface_tap_details_t_handler_json$/;"	f	file:
+vl_api_sw_interface_tap_v2_details_t_handler	api_format.c	/^static void vl_api_sw_interface_tap_v2_details_t_handler$/;"	f	file:
+vl_api_sw_interface_tap_v2_details_t_handler_json	api_format.c	/^static void vl_api_sw_interface_tap_v2_details_t_handler_json$/;"	f	file:
+vl_api_sw_interface_vhost_user_details_t_handler	api_format.c	/^static void vl_api_sw_interface_vhost_user_details_t_handler$/;"	f	file:
+vl_api_sw_interface_vhost_user_details_t_handler_json	api_format.c	/^static void vl_api_sw_interface_vhost_user_details_t_handler_json$/;"	f	file:
+vl_api_tap_connect_reply_t_handler	api_format.c	/^static void vl_api_tap_connect_reply_t_handler$/;"	f	file:
+vl_api_tap_connect_reply_t_handler_json	api_format.c	/^static void vl_api_tap_connect_reply_t_handler_json$/;"	f	file:
+vl_api_tap_create_v2_reply_t_handler	api_format.c	/^vl_api_tap_create_v2_reply_t_handler (vl_api_tap_create_v2_reply_t * mp)$/;"	f	file:
+vl_api_tap_create_v2_reply_t_handler_json	api_format.c	/^static void vl_api_tap_create_v2_reply_t_handler_json$/;"	f	file:
+vl_api_tap_delete_reply_t_handler	api_format.c	/^vl_api_tap_delete_reply_t_handler (vl_api_tap_delete_reply_t * mp)$/;"	f	file:
+vl_api_tap_delete_reply_t_handler_json	api_format.c	/^static void vl_api_tap_delete_reply_t_handler_json$/;"	f	file:
+vl_api_tap_delete_v2_reply_t_handler	api_format.c	/^vl_api_tap_delete_v2_reply_t_handler (vl_api_tap_delete_v2_reply_t * mp)$/;"	f	file:
+vl_api_tap_delete_v2_reply_t_handler_json	api_format.c	/^static void vl_api_tap_delete_v2_reply_t_handler_json$/;"	f	file:
+vl_api_tap_modify_reply_t_handler	api_format.c	/^vl_api_tap_modify_reply_t_handler (vl_api_tap_modify_reply_t * mp)$/;"	f	file:
+vl_api_tap_modify_reply_t_handler_json	api_format.c	/^static void vl_api_tap_modify_reply_t_handler_json$/;"	f	file:
+vl_api_vnet_interface_combined_counters_t_endian	api_format.c	5216;"	d	file:
+vl_api_vnet_interface_combined_counters_t_handler	api_format.c	/^static void vl_api_vnet_interface_combined_counters_t_handler$/;"	f	file:
+vl_api_vnet_interface_combined_counters_t_handler_json	api_format.c	/^static void vl_api_vnet_interface_combined_counters_t_handler_json$/;"	f	file:
+vl_api_vnet_interface_combined_counters_t_print	api_format.c	5217;"	d	file:
+vl_api_vnet_interface_simple_counters_t_endian	api_format.c	5214;"	d	file:
+vl_api_vnet_interface_simple_counters_t_handler	api_format.c	/^static void vl_api_vnet_interface_simple_counters_t_handler$/;"	f	file:
+vl_api_vnet_interface_simple_counters_t_handler_json	api_format.c	/^static void vl_api_vnet_interface_simple_counters_t_handler_json$/;"	f	file:
+vl_api_vnet_interface_simple_counters_t_print	api_format.c	5215;"	d	file:
+vl_api_vnet_ip4_fib_counters_t_endian	api_format.c	5218;"	d	file:
+vl_api_vnet_ip4_fib_counters_t_handler	api_format.c	/^static void vl_api_vnet_ip4_fib_counters_t_handler$/;"	f	file:
+vl_api_vnet_ip4_fib_counters_t_handler_json	api_format.c	/^static void vl_api_vnet_ip4_fib_counters_t_handler_json$/;"	f	file:
+vl_api_vnet_ip4_fib_counters_t_print	api_format.c	5219;"	d	file:
+vl_api_vnet_ip4_nbr_counters_t_endian	api_format.c	5222;"	d	file:
+vl_api_vnet_ip4_nbr_counters_t_handler	api_format.c	/^static void vl_api_vnet_ip4_nbr_counters_t_handler$/;"	f	file:
+vl_api_vnet_ip4_nbr_counters_t_handler_json	api_format.c	/^static void vl_api_vnet_ip4_nbr_counters_t_handler_json$/;"	f	file:
+vl_api_vnet_ip4_nbr_counters_t_print	api_format.c	5223;"	d	file:
+vl_api_vnet_ip6_fib_counters_t_endian	api_format.c	5220;"	d	file:
+vl_api_vnet_ip6_fib_counters_t_handler	api_format.c	/^static void vl_api_vnet_ip6_fib_counters_t_handler$/;"	f	file:
+vl_api_vnet_ip6_fib_counters_t_handler_json	api_format.c	/^static void vl_api_vnet_ip6_fib_counters_t_handler_json$/;"	f	file:
+vl_api_vnet_ip6_fib_counters_t_print	api_format.c	5221;"	d	file:
+vl_api_vnet_ip6_nbr_counters_t_endian	api_format.c	5224;"	d	file:
+vl_api_vnet_ip6_nbr_counters_t_handler	api_format.c	/^static void vl_api_vnet_ip6_nbr_counters_t_handler$/;"	f	file:
+vl_api_vnet_ip6_nbr_counters_t_handler_json	api_format.c	/^static void vl_api_vnet_ip6_nbr_counters_t_handler_json$/;"	f	file:
+vl_api_vnet_ip6_nbr_counters_t_print	api_format.c	5225;"	d	file:
+vl_api_vxlan_add_del_tunnel_reply_t_handler	api_format.c	/^static void vl_api_vxlan_add_del_tunnel_reply_t_handler$/;"	f	file:
+vl_api_vxlan_add_del_tunnel_reply_t_handler_json	api_format.c	/^static void vl_api_vxlan_add_del_tunnel_reply_t_handler_json$/;"	f	file:
+vl_api_vxlan_gpe_add_del_tunnel_reply_t_handler	api_format.c	/^static void vl_api_vxlan_gpe_add_del_tunnel_reply_t_handler$/;"	f	file:
+vl_api_vxlan_gpe_add_del_tunnel_reply_t_handler_json	api_format.c	/^static void vl_api_vxlan_gpe_add_del_tunnel_reply_t_handler_json$/;"	f	file:
+vl_api_vxlan_gpe_tunnel_details_t_handler	api_format.c	/^static void vl_api_vxlan_gpe_tunnel_details_t_handler$/;"	f	file:
+vl_api_vxlan_gpe_tunnel_details_t_handler_json	api_format.c	/^static void vl_api_vxlan_gpe_tunnel_details_t_handler_json$/;"	f	file:
+vl_api_vxlan_tunnel_details_t_handler	api_format.c	/^static void vl_api_vxlan_tunnel_details_t_handler$/;"	f	file:
+vl_api_vxlan_tunnel_details_t_handler_json	api_format.c	/^static void vl_api_vxlan_tunnel_details_t_handler_json$/;"	f	file:
+vl_endianfun	api_format.c	65;"	d	file:
+vl_endianfun	api_format.c	67;"	d	file:
+vl_input_queue	vat.h	/^  svm_queue_t *vl_input_queue;$/;"	m	struct:__anon15
+vl_print	api_format.c	70;"	d	file:
+vl_printfun	api_format.c	71;"	d	file:
+vl_printfun	api_format.c	73;"	d	file:
+vl_socket_client_msg_alloc	api_format.c	/^vl_socket_client_msg_alloc (int nbytes)$/;"	f
+vl_socket_client_read	api_format.c	/^vl_socket_client_read (int wait)$/;"	f
+vl_socket_client_write	api_format.c	/^vl_socket_client_write ()$/;"	f
+vl_typedefs	api_format.c	59;"	d	file:
+vl_typedefs	api_format.c	61;"	d	file:
+vlan_index	api_format.c	/^u32 vlan_index;$/;"	v
+vlib_cli_output	main.c	/^vlib_cli_output (struct vlib_main_t *vm, char *fmt, ...)$/;"	f
+vlib_global_main	main.c	/^vlib_main_t vlib_global_main;$/;"	v
+vlib_main	vat.h	/^  vlib_main_t *vlib_main;$/;"	m	struct:__anon15
+vlib_mains	main.c	/^vlib_main_t **vlib_mains;$/;"	v
+vtr_op	vat.h	/^  u32 vtr_op;$/;"	m	struct:__anon7
+vtr_push_dot1q	vat.h	/^  u32 vtr_push_dot1q;$/;"	m	struct:__anon7
+vtr_tag1	vat.h	/^  u32 vtr_tag1;$/;"	m	struct:__anon7
+vtr_tag2	vat.h	/^  u32 vtr_tag2;$/;"	m	struct:__anon7
